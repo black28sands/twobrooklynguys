@@ -37,7 +37,7 @@ const epNum = String(data.episode).padStart(2, '0');
 
     <!-- Audio Player -->
     <div class="audio-player" style="margin-bottom:32px;">
-      <audio controls style="width:100%;">
+      <audio id="ep-audio" controls style="width:100%;">
         <source src={data.audioUrl} type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
@@ -69,10 +69,10 @@ const epNum = String(data.episode).padStart(2, '0');
       <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:20px;margin-bottom:32px;">
         <h2 style="font-size:1.1rem;margin-bottom:12px;">Chapters</h2>
         {data.chapters.map((ch: { title: string; start: string }) => (
-          <div style="display:flex;gap:12px;padding:6px 0;border-bottom:1px solid var(--border);">
+          <button class="chapter-btn" data-time={ch.start} style="display:flex;gap:12px;padding:8px 0;border:none;border-bottom:1px solid var(--border);background:none;width:100%;text-align:left;cursor:pointer;">
             <span style="color:var(--accent);font-family:monospace;min-width:50px;">{ch.start}</span>
-            <span>{ch.title}</span>
-          </div>
+            <span style="color:var(--text);">{ch.title}</span>
+          </button>
         ))}
       </div>
     )}
@@ -118,4 +118,23 @@ const epNum = String(data.episode).padStart(2, '0');
     color: var(--text-muted);
     font-style: italic;
   }
+  .chapter-btn:hover {
+    background: rgba(255,255,255,0.05) !important;
+  }
 </style>
+
+<script>
+  document.querySelectorAll('.chapter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const time = btn.getAttribute('data-time');
+      if (!time) return;
+      const parts = time.split(':').map(Number);
+      const seconds = parts[0] * 60 + parts[1];
+      const audio = document.getElementById('ep-audio') as HTMLAudioElement;
+      if (audio) {
+        audio.currentTime = seconds;
+        audio.play();
+      }
+    });
+  });
+</script>
