@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const episodes = (await getCollection('episodes')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+const latest = episodes[0];
+const recent = episodes.slice(1, 5);
+---
+
+<BaseLayout title="Home">
+  <!-- Hero -->
+  <section style="text-align:center;margin-bottom:64px;">
+    <h1 style="font-size:2.8rem;margin-bottom:16px;">Two Brooklyn Guys</h1>
+    <p style="font-size:1.2rem;color:var(--text-muted);max-width:600px;margin:0 auto 32px;">
+      Two friends from Brooklyn talking AI, tech, and life.
+      Raw conversations, real insights, no filter.
+    </p>
+    <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+      <a href="/subscribe/" class="subscribe-btn">Subscribe</a>
+      <a href="/episodes/" class="subscribe-btn">All Episodes</a>
+    </div>
+  </section>
+
+  <!-- Latest Episode -->
+  {latest && (
+    <section style="margin-bottom:64px;">
+      <h2 style="font-size:1.1rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:2px;margin-bottom:20px;">Latest Episode</h2>
+      <div class="audio-player">
+        <h3 style="font-size:1.4rem;margin-bottom:4px;">
+          <a href={`/episodes/${latest.id.replace(/\.md$/, '')}/`}>EP{String(latest.data.episode).padStart(2, '0')}: {latest.data.title}</a>
+        </h3>
+        <p class="meta" style="color:var(--text-muted);font-size:0.85rem;margin-bottom:12px;">
+          {latest.data.date} &middot; {latest.data.duration}
+        </p>
+        <p style="color:var(--text-muted);margin-bottom:16px;">{latest.data.description.slice(0, 200)}...</p>
+        <audio controls style="width:100%;">
+          <source src={latest.data.audioUrl} type="audio/mpeg" />
+        </audio>
+      </div>
+    </section>
+  )}
+
+  <!-- Recent Episodes -->
+  {recent.length > 0 && (
+    <section>
+      <h2 style="font-size:1.1rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:2px;margin-bottom:20px;">Recent Episodes</h2>
+      <div style="display:grid;gap:16px;">
+        {recent.map((ep) => (
+          <a href={`/episodes/${ep.id.replace(/\.md$/, '')}/`} style="text-decoration:none;color:inherit;">
+            <div class="episode-card">
+              <h3>EP{String(ep.data.episode).padStart(2, '0')}: {ep.data.title}</h3>
+              <p class="meta">{ep.data.date} &middot; {ep.data.duration}</p>
+              <p class="description">{ep.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div style="text-align:center;margin-top:32px;">
+        <a href="/episodes/" class="subscribe-btn">View All Episodes</a>
+      </div>
+    </section>
+  )}
+</BaseLayout>

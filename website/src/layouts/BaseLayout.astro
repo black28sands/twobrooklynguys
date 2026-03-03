@@ -1,0 +1,66 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Two Brooklyn Guys — AI, tech, and life from BK' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <title>{title} | Two Brooklyn Guys</title>
+  <link rel="alternate" type="application/rss+xml" title="Two Brooklyn Guys Podcast" href="/feed.xml" />
+</head>
+<body>
+  <nav class="container" style="display:flex;justify-content:space-between;align-items:center;padding-top:24px;padding-bottom:24px;border-bottom:1px solid var(--border);">
+    <a href="/" style="font-size:1.3rem;font-weight:700;color:var(--text);">Two Brooklyn Guys</a>
+    <div style="display:flex;gap:24px;font-size:0.95rem;">
+      <a href="/episodes/">Episodes</a>
+      <a href="/about/">About</a>
+      <a href="/subscribe/">Subscribe</a>
+    </div>
+  </nav>
+
+  <main class="container" style="padding-top:48px;padding-bottom:48px;">
+    <slot />
+  </main>
+
+  <footer class="container" style="border-top:1px solid var(--border);padding-top:24px;padding-bottom:24px;color:var(--text-muted);font-size:0.85rem;display:flex;justify-content:space-between;">
+    <span>&copy; {new Date().getFullYear()} Two Brooklyn Guys</span>
+    <div style="display:flex;gap:16px;">
+      <a href="/feed.xml">RSS</a>
+      <a href="/subscribe/">Subscribe</a>
+    </div>
+  </footer>
+
+  <!-- Sticky Player -->
+  <div id="sticky-player" class="sticky-player">
+    <span class="title" id="sticky-title"></span>
+    <audio id="sticky-audio" controls></audio>
+  </div>
+
+  <script is:inline>
+    // Global play handler — any play button dispatches to the sticky player
+    document.addEventListener('play-episode', (e) => {
+      const { title, audioUrl } = e.detail;
+      const player = document.getElementById('sticky-player');
+      const audio = document.getElementById('sticky-audio');
+      const titleEl = document.getElementById('sticky-title');
+
+      if (player && audio && titleEl) {
+        titleEl.textContent = title;
+        audio.src = audioUrl;
+        audio.play();
+        player.classList.add('active');
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+podcast:
+  name: "Two Brooklyn Guys"
+  author: "Martin D & Joe Gonzalez"
+  description: "Two Brooklyn Guys is a podcast born from real conversations between two friends navigating the AI revolution from Brooklyn, NY. Every episode is a curated highlight from raw, unscripted AI Mastermind sessions covering AI tools, building products, hardware, and where technology is heading."
+  language: "en"
+  category: "Technology"
+  subcategory: "Artificial Intelligence"
+  website: "https://twobrooklynguys.com"
+  email: "hello@twobrooklynguys.com"
+  artwork: "assets/artwork/cover-3000x3000.png"
+
+audio:
+  target_lufs: -16
+  true_peak_limit: -1.0
+  sample_rate: 48000
+  bit_depth: 24
+  mp3_bitrate: "128k"
+  channels: 1  # mono for speech
+
+video:
+  resolution: "1920x1080"
+  codec: "libx264"
+  crf: 23
+
+episode_structure:
+  cold_open_duration: 15   # seconds
+  intro_duration: 30       # seconds
+  outro_duration: 30       # seconds
+
+paths:
+  source_root: "C:/Podcast"
+  episodes_root: "C:/Podcast/episodes"
+  assets_root: "C:/Podcast/assets"
+  website_root: "C:/Podcast/website"
+  pipeline_root: "C:/Podcast/pipeline"
+
+social:
+  short_form_max_duration: 90   # seconds
+  short_form_min_duration: 30   # seconds
+  vertical_resolution: "1080x1920"  # 9:16
+  square_resolution: "1080x1080"    # 1:1
+
+distribution:
+  rss_url: "https://twobrooklynguys.com/feed.xml"
+  platforms:
+    - spotify
+    - apple_podcasts
+    - youtube
+    - amazon_music

@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Subscribe" description="Subscribe to Two Brooklyn Guys on your favorite platform">
+  <h1 style="font-size:2.2rem;margin-bottom:12px;">Subscribe</h1>
+  <p style="color:var(--text-muted);margin-bottom:40px;max-width:600px;">
+    Never miss an episode. Choose your favorite platform below or grab our RSS feed directly.
+  </p>
+
+  <h2 style="font-size:1.1rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:2px;margin-bottom:20px;">Podcast Platforms</h2>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(220px, 1fr));gap:16px;margin-bottom:48px;">
+    <a href="#" class="subscribe-btn" style="justify-content:center;">
+      Spotify
+    </a>
+    <a href="#" class="subscribe-btn" style="justify-content:center;">
+      Apple Podcasts
+    </a>
+    <a href="#" class="subscribe-btn" style="justify-content:center;">
+      YouTube
+    </a>
+    <a href="#" class="subscribe-btn" style="justify-content:center;">
+      Amazon Music
+    </a>
+    <a href="#" class="subscribe-btn" style="justify-content:center;">
+      Google Podcasts
+    </a>
+    <a href="/feed.xml" class="subscribe-btn" style="justify-content:center;border-color:var(--accent);">
+      RSS Feed
+    </a>
+  </div>
+
+  <h2 style="font-size:1.1rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:2px;margin-bottom:20px;">Newsletter</h2>
+
+  <div class="episode-card" style="max-width:500px;">
+    <p style="margin-bottom:16px;color:var(--text-muted);">
+      Get episode recaps, bonus content, and behind-the-scenes updates. No spam, unsubscribe anytime.
+    </p>
+    <form style="display:flex;gap:8px;">
+      <input
+        type="email"
+        placeholder="your@email.com"
+        style="flex:1;padding:12px 16px;border-radius:var(--radius);border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:0.95rem;"
+        required
+      />
+      <button
+        type="submit"
+        class="subscribe-btn"
+        style="background:var(--accent);border-color:var(--accent);color:white;cursor:pointer;"
+      >
+        Subscribe
+      </button>
+    </form>
+  </div>
+
+  <div style="margin-top:48px;">
+    <h2 style="font-size:1.1rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:2px;margin-bottom:20px;">Follow Us</h2>
+    <div style="display:flex;gap:16px;">
+      <a href="#" class="subscribe-btn">Twitter/X</a>
+      <a href="#" class="subscribe-btn">Instagram</a>
+      <a href="#" class="subscribe-btn">TikTok</a>
+    </div>
+  </div>
+</BaseLayout>

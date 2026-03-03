@@ -1,0 +1,59 @@
+# ===== Media files (too large for Git) =====
+episodes/*/source/*.mp4
+episodes/*/audio/*.wav
+episodes/*/audio/*.mp3
+episodes/*/video/*.mp4
+episodes/*/video/segments/
+episodes/*/audio/segments/
+
+# Keep review files, metadata, and analysis (small text files)
+# but ignore the large binary outputs
+
+# ===== Original recording folders =====
+Aug */
+Sept */
+Oct */
+Nov */
+Dec */
+Jan */
+Feb */
+
+# ===== Website build artifacts =====
+website/dist/
+website/.astro/
+website/node_modules/
+
+# ===== Website public media (copied by pipeline) =====
+website/public/audio/
+website/public/video/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# ===== Environment / secrets =====
+.env
+.env.*
+*.key
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ===== Logs =====
+*.log
+npm-debug.log*
+
+# ===== Claude Code session files =====
+.claude/

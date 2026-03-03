@@ -1,0 +1,267 @@
+{
+  "suggested_titles": [
+    "Building AI Monsters: Custom Rigs vs Ready-Made Solutions",
+    "Two Brooklyn Guys: AI Hardware Deep Dive & Market Reality Check",
+    "From 140GB RAM to Voice Bots: Our AI Development Journey"
+  ],
+  "topics": [
+    {
+      "id": "T1",
+      "title": "Opening & Recording Setup",
+      "start_segment": 1,
+      "end_segment": 44,
+      "summary": "Morning catch-up, introducing Fathom AI recording, and Google Meet time limits",
+      "energy_level": "low",
+      "recommendation": "trim_to_highlights"
+    },
+    {
+      "id": "T2",
+      "title": "AI Voice Capabilities Reality Check",
+      "start_segment": 45,
+      "end_segment": 97,
+      "summary": "Joe's friends claim voice AI isn't ready, but Martin knows it exists and is available now",
+      "energy_level": "medium",
+      "recommendation": "keep_full"
+    },
+    {
+      "id": "T3",
+      "title": "The AI Agent Landscape Revelation",
+      "start_segment": 165,
+      "end_segment": 302,
+      "summary": "Discovery of existing AI sales platforms like Conversica - realization they don't need to build from scratch",
+      "energy_level": "high",
+      "recommendation": "keep_full"
+    },
+    {
+      "id": "T4",
+      "title": "Custom PC Build Strategy",
+      "start_segment": 98,
+      "end_segment": 164,
+      "summary": "Planning high-performance AI development rigs, Best Buy consultation vs DIY builds",
+      "energy_level": "medium",
+      "recommendation": "keep_full"
+    },
+    {
+      "id": "T5",
+      "title": "RAM Requirements Deep Dive",
+      "start_segment": 446,
+      "end_segment": 501,
+      "summary": "Shocking discovery that 70B parameter models need 140GB+ RAM, questioning their approach",
+      "energy_level": "high",
+      "recommendation": "keep_full"
+    },
+    {
+      "id": "T6",
+      "title": "Chromium Build Experience",
+      "start_segment": 583,
+      "end_segment": 680,
+      "summary": "Martin's mind-blowing experience building Chromium from source, AI writing thousands of lines of code",
+      "energy_level": "high",
+      "recommendation": "keep_full"
+    },
+    {
+      "id": "T7",
+      "title": "Next Steps & Action Items",
+      "start_segment": 638,
+      "end_segment": 700,
+      "summary": "Dividing research tasks, Best Buy appointment details, and build timeline planning",
+      "energy_level": "medium",
+      "recommendation": "trim_to_highlights"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "H1",
+      "segment_ids": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "speaker": "Joe Gonzalez",
+      "quote": "These were the same guys that told us that voice is not possible. So they kind of lost their credibility a little bit. And then yesterday I asked him again... And then he's like, yeah, yeah, yeah. We think that's very close. It's like in the next six months to a year.",
+      "type": "insight",
+      "cold_open_candidate": true,
+      "social_clip_candidate": true,
+      "why_compelling": "Perfect example of how even AI 'experts' are behind the curve on current capabilities"
+    },
+    {
+      "id": "H2",
+      "segment_ids": [
+        175,
+        176,
+        177
+      ],
+      "speaker": "Martin D",
+      "quote": "So if you can see, there's one right here for sales. So something's already built out already... AiSDR, JasonAiSDR, Outreach, Sales Loft. So these are all sales agent built platform already built.",
+      "type": "insight",
+      "cold_open_candidate": false,
+      "social_clip_candidate": true,
+      "why_compelling": "Moment of realization that their idea already exists in the market"
+    },
+    {
+      "id": "H3",
+      "segment_ids": [
+        476,
+        477
+      ],
+      "speaker": "Martin D",
+      "quote": "The RAM requirement, model precision. So they're saying a full precision 16 is 140-gigabyte of RAM... needed for 70 billion.",
+      "type": "insight",
+      "cold_open_candidate": true,
+      "social_clip_candidate": true,
+      "why_compelling": "Shocking technical revelation about AI hardware requirements"
+    },
+    {
+      "id": "H4",
+      "segment_ids": [
+        324,
+        325,
+        326
+      ],
+      "speaker": "Martin D",
+      "quote": "We live in a world now, the technology is free. It's like going to Home Depot and buying a hammer. You could go to Home Depot and buy a hammer and start building a house.",
+      "type": "insight",
+      "cold_open_candidate": true,
+      "social_clip_candidate": true,
+      "why_compelling": "Perfect metaphor for how accessible AI technology has become"
+    },
+    {
+      "id": "H5",
+      "segment_ids": [
+        590,
+        591
+      ],
+      "speaker": "Martin D",
+      "quote": "I don't think it's humanly possible for somebody to do these things that it's doing in that time if you wrote the code yourself.",
+      "type": "emotional",
+      "cold_open_candidate": false,
+      "social_clip_candidate": true,
+      "why_compelling": "Genuine awe at witnessing AI's coding capabilities firsthand"
+    },
+    {
+      "id": "H6",
+      "segment_ids": [
+        672,
+        673,
+        674,
+        675,
+        676
+      ],
+      "speaker": "Joe Gonzalez",
+      "quote": "We almost feel like a grandfather looking at this stuff. What happened? Where did we fall off the wagon and everything just advanced to this level? It's been the last three years, bro.",
+      "type": "emotional",
+      "cold_open_candidate": true,
+      "social_clip_candidate": true,
+      "why_compelling": "Relatable feeling of technological whiplash that many listeners will identify with"
+    }
+  ],
+  "suggested_arc": [
+    "T2",
+    "T3",
+    "T5",
+    "T4",
+    "T6",
+    "T7"
+  ],
+  "suggested_cuts": [
+    {
+      "segment_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "reason": "Extended technical setup and casual morning chat"
+    },
+    {
+      "segment_ids": [
+        66,
+        67,
+        68
+      ],
+      "reason": "Off-topic breakfast discussion"
+    },
+    {
+      "segment_ids": [
+        53,
+        54,
+        55
+      ],
+      "reason": "Brief tangent about Expo CEO change"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Voice AI Reality Gap",
+      "start_segment": 45
+    },
+    {
+      "title": "Discovering the AI Landscape",
+      "start_segment": 165
+    },
+    {
+      "title": "Building Monster AI Rigs",
+      "start_segment": 364
+    },
+    {
+      "title": "The 140GB RAM Shock",
+      "start_segment": 446
+    },
+    {
+      "title": "Watching AI Code Itself",
+      "start_segment": 583
+    }
+  ],
+  "key_takeaways": [
+    "Many AI 'experts' are still behind the curve on what's currently possible with voice AI",
+    "The AI sales agent market is already crowded with established players like Conversica and SalesLoft",
+    "Building serious AI applications requires massive hardware investments - potentially 140GB+ RAM for large models",
+    "Modern AI can write thousands of lines of code autonomously, fundamentally changing software development",
+    "The AI revolution happened incredibly fast - most powerful capabilities emerged in just the last 3-4 years"
+  ],
+  "episode_summary": "Martin and Joe dive deep into the realities of AI development, discovering that the market is already full of established players while grappling with the massive hardware requirements for serious AI work. From 140GB RAM requirements to watching AI write code for hours, they explore what it really takes to compete in the AI space.",
+  "mood": "informative",
+  "content_warnings": []
+}

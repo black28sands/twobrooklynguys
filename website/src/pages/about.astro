@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About" description="About the Two Brooklyn Guys podcast">
+  <h1 style="font-size:2.2rem;margin-bottom:24px;">About the Show</h1>
+
+  <div style="max-width:700px;">
+    <p style="font-size:1.1rem;color:var(--text-muted);margin-bottom:24px;">
+      <strong style="color:var(--text);">Two Brooklyn Guys</strong> is a podcast born from
+      real conversations between two friends navigating the AI revolution from Brooklyn, NY.
+    </p>
+
+    <p style="color:var(--text-muted);margin-bottom:24px;">
+      What started as an "AI Mastermind" meeting — a regular check-in to share discoveries,
+      debate ideas, and push each other to build — became something worth sharing with the world.
+    </p>
+
+    <p style="color:var(--text-muted);margin-bottom:40px;">
+      Every episode is a curated highlight from our raw, unscripted sessions. We talk AI tools,
+      building products, life in Brooklyn, and everything in between. No teleprompters, no sponsors
+      (yet), just two guys who genuinely geek out about where technology is heading.
+    </p>
+
+    <h2 style="font-size:1.4rem;margin-bottom:20px;">The Hosts</h2>
+
+    <div style="display:grid;gap:24px;margin-bottom:40px;">
+      <div class="episode-card">
+        <h3>Host 1</h3>
+        <p style="color:var(--text-muted);"><!-- Add bio here --></p>
+      </div>
+      <div class="episode-card">
+        <h3>Host 2</h3>
+        <p style="color:var(--text-muted);"><!-- Add bio here --></p>
+      </div>
+    </div>
+
+    <h2 style="font-size:1.4rem;margin-bottom:20px;">What We Cover</h2>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));gap:12px;margin-bottom:40px;">
+      {['AI & Machine Learning', 'Building Products', 'Developer Tools', 'Tech Industry', 'Life in Brooklyn', 'Entrepreneurship'].map((topic) => (
+        <div class="episode-card" style="text-align:center;padding:16px;">
+          <span style="font-size:0.95rem;">{topic}</span>
+        </div>
+      ))}
+    </div>
+
+    <h2 style="font-size:1.4rem;margin-bottom:20px;">Get in Touch</h2>
+    <p style="color:var(--text-muted);">
+      Got questions, topic suggestions, or want to be a guest?
+      <!-- Add contact info -->
+    </p>
+  </div>
+</BaseLayout>

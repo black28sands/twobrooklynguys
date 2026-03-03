@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async () => {
+  const episodes = await getCollection('episodes');
+  return episodes.map((ep) => ({
+    params: { slug: ep.id.replace(/\.md$/, '') },
+    props: { episode: ep },
+  }));
+}) satisfies GetStaticPaths;
+
+const { episode } = Astro.props;
+const { Content } = await episode.render();
+const { data } = episode;
+const epNum = String(data.episode).padStart(2, '0');
+---
+
+<BaseLayout title={`EP${epNum}: ${data.title}`} description={data.description}>
+  <article>
+    <!-- Episode header -->
+    <header style="margin-bottom:40px;">
+      <p style="color:var(--accent);font-size:0.9rem;margin-bottom:8px;">Episode {epNum}</p>
+      <h1 style="font-size:2.2rem;margin-bottom:12px;">{data.title}</h1>
+      <p style="color:var(--text-muted);font-size:0.9rem;">
+        {data.date} &middot; {data.duration}
+      </p>
+      {data.tags && (
+        <div style="margin-top:12px;">
+          {data.tags.map((tag: string) => (
+            <span class="tag">{tag}</span>
+          ))}
+        </div>
+      )}
+    </header>
+
+    <!-- Audio Player -->
+    <div class="audio-player" style="margin-bottom:32px;">
+      <audio controls style="width:100%;">
+        <source src={data.audioUrl} type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+
+    <!-- Video Player (if available) -->
+    {data.videoUrl && (
+      <div style="margin-bottom:32px;">
+        <video controls style="width:100%;border-radius:var(--radius);" poster="">
+          <source src={data.videoUrl} type="video/mp4" />
+        </video>
+      </div>
+    )}
+
+    <!-- Chapters -->
+    {data.chapters && data.chapters.length > 0 && (
+      <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:20px;margin-bottom:32px;">
+        <h2 style="font-size:1.1rem;margin-bottom:12px;">Chapters</h2>
+        {data.chapters.map((ch: { title: string; start: string }) => (
+          <div style="display:flex;gap:12px;padding:6px 0;border-bottom:1px solid var(--border);">
+            <span style="color:var(--accent);font-family:monospace;min-width:50px;">{ch.start}</span>
+            <span>{ch.title}</span>
+          </div>
+        ))}
+      </div>
+    )}
+
+    <!-- Show Notes (rendered Markdown) -->
+    <div class="prose" style="line-height:1.8;">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .prose :global(h2) {
+    font-size: 1.4rem;
+    margin-top: 40px;
+    margin-bottom: 16px;
+    color: var(--text);
+  }
+  .prose :global(h3) {
+    font-size: 1.15rem;
+    margin-top: 28px;
+    margin-bottom: 12px;
+  }
+  .prose :global(p) {
+    margin-bottom: 16px;
+    color: var(--text-muted);
+  }
+  .prose :global(ul), .prose :global(ol) {
+    margin-bottom: 16px;
+    padding-left: 24px;
+    color: var(--text-muted);
+  }
+  .prose :global(li) {
+    margin-bottom: 6px;
+  }
+  .prose :global(a) {
+    color: var(--accent);
+  }
+  .prose :global(blockquote) {
+    border-left: 3px solid var(--accent);
+    padding-left: 16px;
+    margin: 20px 0;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+</style>

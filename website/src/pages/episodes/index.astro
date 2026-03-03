@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const episodes = (await getCollection('episodes')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+---
+
+<BaseLayout title="Episodes" description="All episodes of the Two Brooklyn Guys podcast">
+  <h1 style="font-size:2rem;margin-bottom:32px;">All Episodes</h1>
+
+  <div style="display:grid;gap:16px;">
+    {episodes.map((ep) => (
+      <a href={`/episodes/${ep.id.replace(/\.md$/, '')}/`} style="text-decoration:none;color:inherit;">
+        <div class="episode-card" style="display:flex;gap:20px;align-items:center;">
+          <div style="font-size:2rem;font-weight:700;color:var(--accent);min-width:60px;text-align:center;">
+            {String(ep.data.episode).padStart(2, '0')}
+          </div>
+          <div style="flex:1;">
+            <h3>{ep.data.title}</h3>
+            <p class="meta">{ep.data.date} &middot; {ep.data.duration}</p>
+            <p class="description">{ep.data.description}</p>
+            {ep.data.tags && (
+              <div style="margin-top:8px;">
+                {ep.data.tags.slice(0, 4).map((tag: string) => (
+                  <span class="tag">{tag}</span>
+                ))}
+              </div>
+            )}
+          </div>
+        </div>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Two Brooklyn Guys</title>
+    <link>https://twobrooklynguys.com</link>
+    <description>Two Brooklyn Guys is a podcast born from real conversations between two friends navigating the AI revolution from Brooklyn, NY. Every episode is a curated highlight from raw, unscripted AI Mastermind sessions covering AI tools, building products, hardware, and where technology is heading.</description>
+    <copyright>© 2026 Two Brooklyn Guys</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://twobrooklynguys.com/artwork/cover.png</url>
+      <title>Two Brooklyn Guys</title>
+      <link>https://twobrooklynguys.com</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Mar 2026 14:04:44 +0000</lastBuildDate>
+    <itunes:author>Martin D &amp; Joe Gonzalez</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://twobrooklynguys.com/artwork/cover.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Martin D &amp; Joe Gonzalez</itunes:name>
+      <itunes:email>hello@twobrooklynguys.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>EP01: From 140GB RAM to Voice Bots: Our AI Development Journey</title>
+      <link>https://twobrooklynguys.com/episodes/ep01/</link>
+      <description>Martin and Joe face the harsh realities of AI development in this eye-opening episode. When Joe's 'expert' friends claim voice AI isn't ready (spoiler: it's been available for months), the guys realize how fast the AI landscape is moving. Their research reveals shocking truths: the AI sales agent market is already crowded with established players like Conversica, and serious AI development requires monster hardware - we're talking 140GB+ RAM for large language models. Martin shares his mind-blowing experience watching AI autonomously write thousands of lines of code, raising questions about what human developers will do next. From Best Buy consultations to DIY PC builds, this episode captures two entrepreneurs grappling with the gap between AI hype and the technical reality of actually building something meaningful. Perfect for anyone wondering what it really takes to compete in the AI space beyond the headlines.</description>
+      <guid isPermaLink="false">https://twobrooklynguys.com/episodes/ep01/</guid>
+      <enclosure url="https://twobrooklynguys.com/audio/ep01.mp3" length="36707276" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:duration>57:01</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>

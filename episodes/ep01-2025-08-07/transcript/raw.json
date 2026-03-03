@@ -1,0 +1,5607 @@
+{
+  "episode": "ep01",
+  "source": "docx",
+  "total_segments": 700,
+  "segments": [
+    {
+      "id": 1,
+      "speaker": "Unknown",
+      "text": "AI Mastermind meeting#3 - August 07",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 2,
+      "speaker": "Unknown",
+      "text": "VIEW RECORDING - 57 mins (No highlights)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 3,
+      "speaker": "Unknown",
+      "text": "@0:01 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 4,
+      "speaker": "Unknown",
+      "text": "What's going on, brother? What's going on? What's the word? Why can't I hear you? You can't hear me? You can't hear me?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 5,
+      "speaker": "Unknown",
+      "text": "@0:08 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 6,
+      "speaker": "Unknown",
+      "text": "go. Okay, there it is. Hold on. I think you're coming through my speaker for some reason. Hold on a second.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 7,
+      "speaker": "Unknown",
+      "text": "Speaker. Go. Here we go. What up, bro? What's going on, brother? What's the word?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 8,
+      "speaker": "Unknown",
+      "text": "@0:22 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 9,
+      "speaker": "Unknown",
+      "text": "Not too much.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 10,
+      "speaker": "Unknown",
+      "text": "@0:23 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 11,
+      "speaker": "Unknown",
+      "text": "What's going on?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 12,
+      "speaker": "Unknown",
+      "text": "@0:24 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 13,
+      "speaker": "Unknown",
+      "text": "Yeah, thanks for joining me for this early, early call.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 14,
+      "speaker": "Unknown",
+      "text": "@0:30 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 15,
+      "speaker": "Unknown",
+      "text": "What's up? Were you eating eggs? Yeah, I'm having a boiled egg. Nice. Nice.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 16,
+      "speaker": "Unknown",
+      "text": "@0:36 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 17,
+      "speaker": "Unknown",
+      "text": "Getting ready, ramped up. I'm getting up, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 18,
+      "speaker": "Unknown",
+      "text": "@0:39 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 19,
+      "speaker": "Unknown",
+      "text": "Coffee's going in. I'm getting ramped up. Nice, nice.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 20,
+      "speaker": "Unknown",
+      "text": "@0:43 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 21,
+      "speaker": "Unknown",
+      "text": "Well, listen, man, this is meeting number three. I'm glad to introduce... Phantom is recording this one, so we're using AI, so we're integrating it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 22,
+      "speaker": "Unknown",
+      "text": "@0:52 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 23,
+      "speaker": "Unknown",
+      "text": "Oh, whoa, whoa, whoa, Yeah. Phantom. Fathom? Fathom.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 24,
+      "speaker": "Unknown",
+      "text": "@1:00 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 25,
+      "speaker": "Unknown",
+      "text": "Wow.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 26,
+      "speaker": "Unknown",
+      "text": "@1:01 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 27,
+      "speaker": "Unknown",
+      "text": "Right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 28,
+      "speaker": "Unknown",
+      "text": "@1:03 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 29,
+      "speaker": "Unknown",
+      "text": "Love it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 30,
+      "speaker": "Unknown",
+      "text": "@1:04 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 31,
+      "speaker": "Unknown",
+      "text": "Love it, bro. Love it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 32,
+      "speaker": "Unknown",
+      "text": "@1:05 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 33,
+      "speaker": "Unknown",
+      "text": "So it's nice because I've actually used it already on one of our call. So it's kind of nice. So we've kind of extended it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 34,
+      "speaker": "Unknown",
+      "text": "For some reason, is Google Meet now only giving you an hour? Giving us an hour? I don't know. Is it?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 35,
+      "speaker": "Unknown",
+      "text": "Maybe. Call ends in 59 minutes. Okay. That's weird. I guess that must be new.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 36,
+      "speaker": "Unknown",
+      "text": "@1:34 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 37,
+      "speaker": "Unknown",
+      "text": "And then it shuts off after an hour? Like it kicks us out? Yeah, I guess. Yeah. I think it does.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 38,
+      "speaker": "Unknown",
+      "text": "Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 39,
+      "speaker": "Unknown",
+      "text": "@1:40 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 40,
+      "speaker": "Unknown",
+      "text": "All right. It's all good.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 41,
+      "speaker": "Unknown",
+      "text": "@1:45 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 42,
+      "speaker": "Unknown",
+      "text": "So, yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 43,
+      "speaker": "Unknown",
+      "text": "@1:46 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 44,
+      "speaker": "Unknown",
+      "text": "So that's what it is. So what's going on? Anything, any thoughts from last week?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 45,
+      "speaker": "Unknown",
+      "text": "@1:51 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 46,
+      "speaker": "Unknown",
+      "text": "So, yesterday, I actually spoke with I think I told you. My friend has two colleagues that he works with who are into AI.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 47,
+      "speaker": "Unknown",
+      "text": "I spoke with one of them yesterday. And I basically said, listen, you need to, you need, because these were the same guys that told us that voice is not possible.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 48,
+      "speaker": "Unknown",
+      "text": "So they, they kind of lost their credibility a little bit. Right. And then yesterday I asked him again, I'm like, Hey guys, like I've been reading and looking around and I've been seeing, like, it looks like AI can like do voice and it can be quick.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 49,
+      "speaker": "Unknown",
+      "text": "Like, like the way two people are speaking to each other. And then he's like, yeah, yeah, yeah. We think that's very close.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 50,
+      "speaker": "Unknown",
+      "text": "It's like in the next six months to a year. Yeah. So I don't know what you're seeing, bro. It's like, if these guys are just like trying to protect themselves, like they really just can't do it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 51,
+      "speaker": "Unknown",
+      "text": "Or if it really isn't, if we're not there yet with voice?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 52,
+      "speaker": "Unknown",
+      "text": "@3:05 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 53,
+      "speaker": "Unknown",
+      "text": "No, it can be done. Oh, we got a new CEO for Expo. We do?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 54,
+      "speaker": "Unknown",
+      "text": "@3:14 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 55,
+      "speaker": "Unknown",
+      "text": "Yeah, it just came across.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 56,
+      "speaker": "Unknown",
+      "text": "@3:15 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 57,
+      "speaker": "Unknown",
+      "text": "It can be done. I think what I believe is there's people that's basically saying, hey, I'm going to stick with what I have, and I'm to let that work.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 58,
+      "speaker": "Unknown",
+      "text": "I'm not going to develop anything else. I'm going to monetize and get the most and squeeze everything out I can without having to innovate.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 59,
+      "speaker": "Unknown",
+      "text": "Because the thing with innovation is you run into a lot more guardrails you have to put in place. You know what I'm trying to say?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 60,
+      "speaker": "Unknown",
+      "text": "Does that make sense?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 61,
+      "speaker": "Unknown",
+      "text": "@3:40 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 62,
+      "speaker": "Unknown",
+      "text": "Yeah. That's why I said I think they're playing it safe, right? A hundred percent.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 63,
+      "speaker": "Unknown",
+      "text": "@3:48 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 64,
+      "speaker": "Unknown",
+      "text": "It's still a free for all marketplace where, you know, you're kind of building something out and making it marketable.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 65,
+      "speaker": "Unknown",
+      "text": "@3:56 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 66,
+      "speaker": "Unknown",
+      "text": "But doesn't that mean we're at a great position right now? now. extra special parts. Like, if we were to do it before everyone else “Eat some breakfast.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 67,
+      "speaker": "Unknown",
+      "text": "@4:04 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 68,
+      "speaker": "Unknown",
+      "text": "Yeah, eat some breakfast for us. I made some biscuits and bacon. I made some biscuits.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 69,
+      "speaker": "Unknown",
+      "text": "@4:09 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 70,
+      "speaker": "Unknown",
+      "text": "Doesn't that mean that we're in a good position right now? We're, like, at the cutting edge, the cusp of this, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 71,
+      "speaker": "Unknown",
+      "text": "If we are building a voice, Juan, we'd be ahead of everyone else who is playing it safe. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 72,
+      "speaker": "Unknown",
+      "text": "@4:25 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 73,
+      "speaker": "Unknown",
+      "text": "Yeah. Yeah. Like I said, I've explored the voice one. It is there. It's called, oh, my God, these names.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 74,
+      "speaker": "Unknown",
+      "text": "I know the one that exists, that everyone goes to, to use as specifically for voice. It's a voice. Right, right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 75,
+      "speaker": "Unknown",
+      "text": "So, but what it basically is, it's a separate platform that you have to integrate. So all these things are all integration.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 76,
+      "speaker": "Unknown",
+      "text": "So as long as you know how to put them together like a recipe, you're good. Right, right. right. right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 77,
+      "speaker": "Unknown",
+      "text": "@4:56 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 78,
+      "speaker": "Unknown",
+      "text": "Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 79,
+      "speaker": "Unknown",
+      "text": "@5:24 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 80,
+      "speaker": "Unknown",
+      "text": "Yeah, so we're in a good place, man. Yeah, we're in a good place.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 81,
+      "speaker": "Unknown",
+      "text": "@5:32 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 82,
+      "speaker": "Unknown",
+      "text": "Now, I didn't make that point to them. I just said, listen, we need to figure out that if we're going to be doing anything, it has to be next generation.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 83,
+      "speaker": "Unknown",
+      "text": "It has to be super advanced. Because if it's not advanced, if we're just building something just to, you know, to build it, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 84,
+      "speaker": "Unknown",
+      "text": "Like just to say, okay, we can do it right now. We could do it. you. Thank It's going to fade away in a couple of years.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 85,
+      "speaker": "Unknown",
+      "text": "That's what we were talking about last time. Everyone's going to make their own, and it's just going to be saturated.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 86,
+      "speaker": "Unknown",
+      "text": "The marketplace is just going to be saturated with different AI capabilities. We have to be in front of everyone.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 87,
+      "speaker": "Unknown",
+      "text": "Right? That's what I was telling them. I'm still not convinced, bro. These guys are it. I mean, I don't know.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 88,
+      "speaker": "Unknown",
+      "text": "If we did want to go the route of having somebody build it for us. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 89,
+      "speaker": "Unknown",
+      "text": "@6:40 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 90,
+      "speaker": "Unknown",
+      "text": "I did speak to one of the kids I told you I was looking to ask if they could do it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 91,
+      "speaker": "Unknown",
+      "text": "I wasn't trying to ask him directly. He's not a kid. I guess, apparently, like he was on a call and I was speaking to him.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 92,
+      "speaker": "Unknown",
+      "text": "He's been doing this for like 12 years. So he's basically like, you know. He teaches himself. He buys all the subscriptions.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 93,
+      "speaker": "Unknown",
+      "text": "He's self-taught. He has his own company that he's actually building, and he has a team. So going back to how busy is he?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 94,
+      "speaker": "Unknown",
+      "text": "But then, like I said again, it's like I said, hey, do you know anybody? He's like, oh, honestly, I really don't know anybody who can build something like that.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 95,
+      "speaker": "Unknown",
+      "text": "So it's weird that he even said that, because I thought he would have jumped on it like, hey, listen, I'll help you out.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 96,
+      "speaker": "Unknown",
+      "text": "But it wasn't the case.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 97,
+      "speaker": "Unknown",
+      "text": "@7:25 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 98,
+      "speaker": "Unknown",
+      "text": "So that was a dead end.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 99,
+      "speaker": "Unknown",
+      "text": "@7:28 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 100,
+      "speaker": "Unknown",
+      "text": "And somebody else that I reached out to never responded back. But it's still ongoing. You know, I definitely feel the combination of trying to find somebody and me still dabbling and working through, hence, you know, why I want to upgrade the computer system.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 101,
+      "speaker": "Unknown",
+      "text": "Like I told you, I'm going to get that appointment done and hopefully by this weekend. But the problem is now I have to do all that work I did before, like all the I told you I built out Chromium from source.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 102,
+      "speaker": "Unknown",
+      "text": "It took like two or two and a half days to build out. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 103,
+      "speaker": "Unknown",
+      "text": "@7:59 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 104,
+      "speaker": "Unknown",
+      "text": "You know what? Yeah. Upgrade it. There's no way to upgrade it. You have to, it's better to just- If it makes sense to upgrade, he's like, it's cheaper to build it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 105,
+      "speaker": "Unknown",
+      "text": "@8:06 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 106,
+      "speaker": "Unknown",
+      "text": "And I think it makes sense because then it's almost like I could build something that has room to grow as opposed to this.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 107,
+      "speaker": "Unknown",
+      "text": "I want to squeeze something into our already made, you know, off the shelf product. So who did you ask?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 108,
+      "speaker": "Unknown",
+      "text": "@8:18 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 109,
+      "speaker": "Unknown",
+      "text": "Someone Best Buy? Yeah. Best Buy.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 110,
+      "speaker": "Unknown",
+      "text": "@8:20 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 111,
+      "speaker": "Unknown",
+      "text": "asked Geek Squad. And does he, did you tell him what you were building it for?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 112,
+      "speaker": "Unknown",
+      "text": "@8:26 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 113,
+      "speaker": "Unknown",
+      "text": "Yeah. was able to help you? Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 114,
+      "speaker": "Unknown",
+      "text": "@8:28 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 115,
+      "speaker": "Unknown",
+      "text": "Geek Squad said it's cheaper to build it. He said, you could customize it and be, and they, they have that ability.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 116,
+      "speaker": "Unknown",
+      "text": "They say it takes two days for them to build. And they put windows and everything up on it and ready to go.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 117,
+      "speaker": "Unknown",
+      "text": "@8:39 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 118,
+      "speaker": "Unknown",
+      "text": "Hmm. So I figured I could get some- Is he building you a computer or is he building you like a massive server?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 119,
+      "speaker": "Unknown",
+      "text": "Like, what is he building? Well, I guess I could get a massive server built, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 120,
+      "speaker": "Unknown",
+      "text": "@8:49 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 121,
+      "speaker": "Unknown",
+      "text": "It's depending on how big the box is. If I go to him and said, hey, I want to, I have 64, um, do I have VRAM or regular RAM?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 122,
+      "speaker": "Unknown",
+      "text": "The RAM.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 123,
+      "speaker": "Unknown",
+      "text": "@8:58 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 124,
+      "speaker": "Unknown",
+      "text": "The RAM is video RAM.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 125,
+      "speaker": "Unknown",
+      "text": "@9:00 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 126,
+      "speaker": "Unknown",
+      "text": "Right, it's the VRAM I bought, right? Let me get this straight.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 127,
+      "speaker": "Unknown",
+      "text": "@9:04 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 128,
+      "speaker": "Unknown",
+      "text": "So for AI, you need a good video card? Is that what I'm hearing? That's what they told me. Everyone is telling you that?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 129,
+      "speaker": "Unknown",
+      "text": "That's what I bought.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 130,
+      "speaker": "Unknown",
+      "text": "@9:16 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 131,
+      "speaker": "Unknown",
+      "text": "So that's what? RGB, DDR, is that what I bought? GT?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 132,
+      "speaker": "Unknown",
+      "text": "@9:23 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 133,
+      "speaker": "Unknown",
+      "text": "I can't see it. Vengeance? GeForce? What is it? RTX? Or that's memory. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 134,
+      "speaker": "Unknown",
+      "text": "@9:31 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 135,
+      "speaker": "Unknown",
+      "text": "So I'm thinking, can I just build a case that could fit, like, 128 gigs, even if I don't put it in now?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 136,
+      "speaker": "Unknown",
+      "text": "I think you can, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 137,
+      "speaker": "Unknown",
+      "text": "@9:40 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 138,
+      "speaker": "Unknown",
+      "text": "I think we could do it. You can do it yourself. But, I mean, like... Postify does it for free.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 139,
+      "speaker": "Unknown",
+      "text": "@9:46 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 140,
+      "speaker": "Unknown",
+      "text": "If you buy the components there, though, right? Yeah, I got to buy the components there. And I could just buy whatever.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 141,
+      "speaker": "Unknown",
+      "text": "They got open the box. I'm open to buying open box. I'm buying, you know what I'm saying? Like... But then also have the ability to build out...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 142,
+      "speaker": "Unknown",
+      "text": "Space to have it. Like I could build, you know what saying? Like something that could have 120 gigs of RAM, even if I'm just putting a 64 in.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 143,
+      "speaker": "Unknown",
+      "text": "@10:08 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 144,
+      "speaker": "Unknown",
+      "text": "Did you see my computer, bro? Yes. My computer looks like a giant, like, like 3D printer. Like it's a square.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 145,
+      "speaker": "Unknown",
+      "text": "@10:17 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 146,
+      "speaker": "Unknown",
+      "text": "Oh, the one that you, oh, you built that one. Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 147,
+      "speaker": "Unknown",
+      "text": "@10:21 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 148,
+      "speaker": "Unknown",
+      "text": "Bro, it, you know, the way a 3D printer looks like, like it has a glass on it. You could see into it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 149,
+      "speaker": "Unknown",
+      "text": "I think I saw it when I went to your house, didn't I? did. And I don't know, I forgot if you made a comment.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 150,
+      "speaker": "Unknown",
+      "text": "You're like, what's that? And I was like, that's a computer. It's a beast. Yeah. So, bro, I bought the biggest case you could possibly buy that's not a server, mind you, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 151,
+      "speaker": "Unknown",
+      "text": "And, bro, there's so much space in this . You could, I don't even know how much memory you could put in it, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 152,
+      "speaker": "Unknown",
+      "text": "You could just line it up with memory if you wanted to. But, I mean, just, just to get back on track.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 153,
+      "speaker": "Unknown",
+      "text": "Okay. we You need a big, strong computer to run this. So I guess it's worth it. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 154,
+      "speaker": "Unknown",
+      "text": "@11:10 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 155,
+      "speaker": "Unknown",
+      "text": "Because what I'm trying to think is, this also gives the ability to run this thing offline so you don't spend money into whatever thing you're building to add.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 156,
+      "speaker": "Unknown",
+      "text": "@11:20 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 157,
+      "speaker": "Unknown",
+      "text": "That's smart. If we were back in 1999, 2000, I would have said that, and I had the money. That's the way I would have did it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 158,
+      "speaker": "Unknown",
+      "text": "I would have just left my computer on all the time, posted right on my computer, and my website would have been fine.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 159,
+      "speaker": "Unknown",
+      "text": "Right. Okay. So, I don't know why we went down that road, but that's- to say that we're doing it, you're basically doing this yourself.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 160,
+      "speaker": "Unknown",
+      "text": "You're starting it up yourself, right? Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 161,
+      "speaker": "Unknown",
+      "text": "@11:53 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 162,
+      "speaker": "Unknown",
+      "text": "So, whichever one comes first, I think is the thing. If I can do some part of it, some of or have an understanding, you know.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 163,
+      "speaker": "Unknown",
+      "text": "So to have these conversations with anyone that's going to build it, that's also important, to know what they're building, especially if they're just going to build it and they're not going to service it, you know?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 164,
+      "speaker": "Unknown",
+      "text": "Right. We've got to learn along the way. So that's kind of the fun part about this. If we find someone that's willing to work with us in this capacity, we're willing to learn, you know?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 165,
+      "speaker": "Unknown",
+      "text": "Yeah. But that is possible. The other thing also, and I'll text it to you, it's a list of all the AI things that are out there in the marketplace.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 166,
+      "speaker": "Unknown",
+      "text": "And so what we're building is probably out there already. It's just marketed or named something different. And we're just not probably familiar with.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 167,
+      "speaker": "Unknown",
+      "text": "So there is a, so I can send it to you right now while we talk. There is a, let me send you this.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 168,
+      "speaker": "Unknown",
+      "text": "They were saying that too yesterday.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 169,
+      "speaker": "Unknown",
+      "text": "@12:53 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 170,
+      "speaker": "Unknown",
+      "text": "They were saying, like, they could use Gemini and, like, some other, I guess, Google. You know, established AIs, like “check what I just sent you.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 171,
+      "speaker": "Unknown",
+      "text": "@13:04 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 172,
+      "speaker": "Unknown",
+      "text": "If you bring it up on your phone, what this is, is the AI agent landscape.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 173,
+      "speaker": "Unknown",
+      "text": "@13:08 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 174,
+      "speaker": "Unknown",
+      "text": "“Ai agent landscape. “Right. So this is basically what's out there.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 175,
+      "speaker": "Unknown",
+      "text": "@13:12 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 176,
+      "speaker": "Unknown",
+      "text": "So if you can see, there's one right here for sales. So something's already built out already. I just don't know what it looks like and we could create ourselves or find a way to, to, to, to build off that platform because they have platforms.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 177,
+      "speaker": "Unknown",
+      "text": "“For the sales one, I never heard of these. “AiSDR, JasonAiSDR, Outreach, Sales Loft. “So these are all sales agent built platform already built.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 178,
+      "speaker": "Unknown",
+      "text": "@13:45 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 179,
+      "speaker": "Unknown",
+      "text": "“And are they free to use? “Well, I'm not sure.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 180,
+      "speaker": "Unknown",
+      "text": "@13:48 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 181,
+      "speaker": "Unknown",
+      "text": "didn't, I didn't dive into any one of these yet. But what I'm saying is this is what the landscape looked like.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 182,
+      "speaker": "Unknown",
+      "text": "“So when you're talking about like “This is what it looks like now, imagine another six months. “It's probably going to be twice as big as this page.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 183,
+      "speaker": "Unknown",
+      "text": "“Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 184,
+      "speaker": "Unknown",
+      "text": "@14:00 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 185,
+      "speaker": "Unknown",
+      "text": "“Right. “Right. “That's Right. Productivity, customer support. Jesus, there's customer support? Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 186,
+      "speaker": "Unknown",
+      "text": "@14:08 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 187,
+      "speaker": "Unknown",
+      "text": "HR, legal. You have a legal one. Cybersecurity. So all these are already made and built out.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 188,
+      "speaker": "Unknown",
+      "text": "@14:14 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 189,
+      "speaker": "Unknown",
+      "text": "Yeah. ChatGPT, deep research. Right. . Marketing too? Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 190,
+      "speaker": "Unknown",
+      "text": "@14:25 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 191,
+      "speaker": "Unknown",
+      "text": "So this is what's out there, man. So, you know what I'm saying? Like, we don't have to start from scratch.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 192,
+      "speaker": "Unknown",
+      "text": "We kind of just like, and I sent you the video last week. I'm not sure if took a look from the people that I was able to screen record the meeting I was in with these guys, and they were selling out-of-the-box product for clients and members.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 193,
+      "speaker": "Unknown",
+      "text": "The guy that was presenting it wasn't the guy that I listened to originally, but he basically was describing what this AI product would look like if you built it with a relationship with the prospect.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 194,
+      "speaker": "Unknown",
+      "text": "That your client. That it wouldn't be just like, I'm going to sell you, but as innovation comes around, we're going to build together and I'm going to always have you as a client.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 195,
+      "speaker": "Unknown",
+      "text": "@15:09 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 196,
+      "speaker": "Unknown",
+      "text": "Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 197,
+      "speaker": "Unknown",
+      "text": "@15:10 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 198,
+      "speaker": "Unknown",
+      "text": "So that was what I sent last week. So just to have you think about some ideas behind it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 199,
+      "speaker": "Unknown",
+      "text": "@15:17 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 200,
+      "speaker": "Unknown",
+      "text": "I feel like I need to take, just for myself, I need to take a step back for a second because you've got all of, like, bro, that's mind-blowing, what you just sent.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 201,
+      "speaker": "Unknown",
+      "text": "Because it's like, there's so much already established. Right. So what is it that, I mean, we're going to really be building?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 202,
+      "speaker": "Unknown",
+      "text": "I mean, is it going to be customized to whatever business we want? Like, are we, are we just going to, are we going to take, I don't know, JSON, AI, SDR, and, and apply it to Pilates or whatever, whatever we're selling, whatever industry we're, we're.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 203,
+      "speaker": "Unknown",
+      "text": "Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 204,
+      "speaker": "Unknown",
+      "text": "@16:02 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 205,
+      "speaker": "Unknown",
+      "text": "Because you've got to remember, too, we live in a world where we just have to come up with the idea and then engineer it to the problem.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 206,
+      "speaker": "Unknown",
+      "text": "Because we know where the problems are. We know fellow franchisees that don't are, one, they're not aware of AI.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 207,
+      "speaker": "Unknown",
+      "text": "They don't even want to think about AI. Like, you bring AI up, they're like, I don't know, sometime I use ChatGBT.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 208,
+      "speaker": "Unknown",
+      "text": "No, this is going to change your business, but you need to start embracing it. Ah, you take care of that.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 209,
+      "speaker": "Unknown",
+      "text": "So again, we could be the middle person to translate how these products can benefit their business. What we were talking about originally was the benefit of us building it ourselves.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 210,
+      "speaker": "Unknown",
+      "text": "We own it. But then we could kind of see which one makes sense. Because some of these models, you could build on top of.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 211,
+      "speaker": "Unknown",
+      "text": "Yeah, I'm going to say, you don't have to start from the ground up.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 212,
+      "speaker": "Unknown",
+      "text": "@16:54 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 213,
+      "speaker": "Unknown",
+      "text": "So in other words, we could build on top of one of these. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 214,
+      "speaker": "Unknown",
+      "text": "@16:57 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 215,
+      "speaker": "Unknown",
+      "text": "Yeah, as a product for whoever we. You know what I'm trying to say? So that would be another way that we don't have to reinvent the wheel and it saves us some time and headache.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 216,
+      "speaker": "Unknown",
+      "text": "All we got to know is just familiarize ourselves with the product and then go sell it. Almost all the sales.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 217,
+      "speaker": "Unknown",
+      "text": "@17:12 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 218,
+      "speaker": "Unknown",
+      "text": "Yeah. You know what I'm say? Right. So what type of time are we looking at here if we wanted to build it ourselves versus use one of these already created?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 219,
+      "speaker": "Unknown",
+      "text": "@17:28 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 220,
+      "speaker": "Unknown",
+      "text": "Well, this is where maybe do a little research, I think. Now we have the list to look at. We have how many companies on here adjust specifically sales.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 221,
+      "speaker": "Unknown",
+      "text": "One, three, four, five, six. Not too bad. So if we kind of get on the platform, do a little research, what they're about, what their vision, how they're used to help.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 222,
+      "speaker": "Unknown",
+      "text": "Because, again, they're probably smart enough to create the product, but they don't have the clientele rushing through the door to pick it up.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 223,
+      "speaker": "Unknown",
+      "text": "We know where the client, you know what I'm to say? It's almost like we know where this is. We can.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 224,
+      "speaker": "Unknown",
+      "text": "Familiarize ourselves with the product and find how we could kind of like, one, is it something that we could build on top of?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 225,
+      "speaker": "Unknown",
+      "text": "Is it something that we just have to subscribe to, know how it works, and then integrate it with whoever we're talking to?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 226,
+      "speaker": "Unknown",
+      "text": "And you know what I'm saying? Because at the end of the day, are they going to want to know where we're getting it from?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 227,
+      "speaker": "Unknown",
+      "text": "It's like we're white labeling it. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 228,
+      "speaker": "Unknown",
+      "text": "@18:18 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 229,
+      "speaker": "Unknown",
+      "text": "Right. I see.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 230,
+      "speaker": "Unknown",
+      "text": "@18:21 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 231,
+      "speaker": "Unknown",
+      "text": "Our time would just be spent learning how this thing works and how would it solve our problem that we need to get solved.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 232,
+      "speaker": "Unknown",
+      "text": "@18:27 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 233,
+      "speaker": "Unknown",
+      "text": "Right. How it can be customized to their business, which is what it has to be. Like, I think we need to think about like a requirement of what it has to do, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 234,
+      "speaker": "Unknown",
+      "text": "It has to be customizable to some extent, right? Like, we're not going to be just trying to get Pilates Studios into this.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 235,
+      "speaker": "Unknown",
+      "text": "Like, we're going to want this to be broader, right? So we want to be able to go to a client and say, yes, we can, we can say.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 236,
+      "speaker": "Unknown",
+      "text": "So there's a level of customization that has to be there. If it's too one-size-fits-all, I don't think it's going to work.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 237,
+      "speaker": "Unknown",
+      "text": "Especially if we're going to charge a lot. Again, I'm trying to think of sales. We don't want to charge a little bit for this.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 238,
+      "speaker": "Unknown",
+      "text": "@19:38 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 239,
+      "speaker": "Unknown",
+      "text": "Everything all right, bro?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 240,
+      "speaker": "Unknown",
+      "text": "@19:41 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 241,
+      "speaker": "Unknown",
+      "text": "Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 242,
+      "speaker": "Unknown",
+      "text": "@19:42 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 243,
+      "speaker": "Unknown",
+      "text": "No, I'm just saying we don't want to charge a little bit, yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 244,
+      "speaker": "Unknown",
+      "text": "@19:45 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 245,
+      "speaker": "Unknown",
+      "text": "We don't want to charge a little bit. That's a requirement. It has to be advanced enough that we're ahead of the game.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 246,
+      "speaker": "Unknown",
+      "text": "Everyone else is sort of like, no, we're on the cutting edge here. This is, you know, you know, ahead.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 247,
+      "speaker": "Unknown",
+      "text": "By, like, years. Well, I don't know about years, but maybe it's way ahead of others, right? All right. So we have to decide whether building it ourselves is easier, I guess.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 248,
+      "speaker": "Unknown",
+      "text": "Well, it's not going to be easier. guess faster and more economical is the question, right? If we build it ourselves, and then customizable too, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 249,
+      "speaker": "Unknown",
+      "text": "Because you have to assume that if you were to use any of these existing ones, like, we can't customize it that much, can we?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 250,
+      "speaker": "Unknown",
+      "text": "Like, if we were to use one piece?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 251,
+      "speaker": "Unknown",
+      "text": "@20:43 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 252,
+      "speaker": "Unknown",
+      "text": "Well, that's what I'm not aware of yet, but this is where our next steps could be to explore this avenue.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 253,
+      "speaker": "Unknown",
+      "text": "We kind of divide between, you know, there's six of them, you know, we can split it up.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 254,
+      "speaker": "Unknown",
+      "text": "@20:52 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 255,
+      "speaker": "Unknown",
+      "text": "You do three, I do three.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 256,
+      "speaker": "Unknown",
+      "text": "@20:54 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 257,
+      "speaker": "Unknown",
+      "text": "And by next week, we kind of have like a kind of like a feedback on how did it go?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 258,
+      "speaker": "Unknown",
+      "text": "If you want to take top three, I take bottom three. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 259,
+      "speaker": "Unknown",
+      "text": "@21:03 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 260,
+      "speaker": "Unknown",
+      "text": "Conversica. Conversica. Huh.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 261,
+      "speaker": "Unknown",
+      "text": "@21:07 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 262,
+      "speaker": "Unknown",
+      "text": "four, five, six. Yeah, there's six of them. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 263,
+      "speaker": "Unknown",
+      "text": "@21:14 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 264,
+      "speaker": "Unknown",
+      "text": "Just looking at it. Conversica. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 265,
+      "speaker": "Unknown",
+      "text": "@21:18 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 266,
+      "speaker": "Unknown",
+      "text": "Bring it up.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 267,
+      "speaker": "Unknown",
+      "text": "@21:20 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 268,
+      "speaker": "Unknown",
+      "text": "Conversational AI leaders. See? It's there already.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 269,
+      "speaker": "Unknown",
+      "text": "@21:23 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 270,
+      "speaker": "Unknown",
+      "text": "I'm telling you. So what these guys are telling you is not, you know. Redefine your customer interactions with Athena AI.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 271,
+      "speaker": "Unknown",
+      "text": "@21:39 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 272,
+      "speaker": "Unknown",
+      "text": "Yeah. This is voice, bro. This is voice. Conversational. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 273,
+      "speaker": "Unknown",
+      "text": "@21:43 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 274,
+      "speaker": "Unknown",
+      "text": "That's what I'm trying to tell you. It's there. It's there.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 275,
+      "speaker": "Unknown",
+      "text": "@21:46 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 276,
+      "speaker": "Unknown",
+      "text": "It's totally there. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 277,
+      "speaker": "Unknown",
+      "text": "@21:48 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 278,
+      "speaker": "Unknown",
+      "text": "But it's, and I think what people keep forgetting is the, the, the, the, the real, the real power here is.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 279,
+      "speaker": "Unknown",
+      "text": "Knowing where to go get the stuff. That's the key. Does that make sense? Knowing where meaning like here, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 280,
+      "speaker": "Unknown",
+      "text": "@22:11 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 281,
+      "speaker": "Unknown",
+      "text": "Like what's available right now? Like we have to leverage what's available right now so that we could take it to the next level.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 282,
+      "speaker": "Unknown",
+      "text": "That too, yep. We need to know where we're at now. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 283,
+      "speaker": "Unknown",
+      "text": "@22:26 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 284,
+      "speaker": "Unknown",
+      "text": "So that's something, again, you just jumped on. I'm not sure if there's a meeting you have to set up with their team to find out what they could offer and how you want to kind of like, you know, how we want to partner with them.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 285,
+      "speaker": "Unknown",
+      "text": "But just to kind of like, you know, hey, what does this look like? And can it be built on top of?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 286,
+      "speaker": "Unknown",
+      "text": "Can you build it out further? Right. We can say, hey, we can rent you our whatever our thing is.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 287,
+      "speaker": "Unknown",
+      "text": "And then you set up another layer of, okay, I'm using your thing just like ChatGBT. And then the other layer would be would be our program on how we market it and then rebrand it as something else.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 288,
+      "speaker": "Unknown",
+      "text": "go. Thank Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 289,
+      "speaker": "Unknown",
+      "text": "@23:03 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 290,
+      "speaker": "Unknown",
+      "text": "Because I could, just like you said, I could see like a business owner opening up this page and saying, what the hell do I do here?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 291,
+      "speaker": "Unknown",
+      "text": "There's nothing, you know, how could I apply this to my business? If we, if we become the masters at that.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 292,
+      "speaker": "Unknown",
+      "text": "Yes, that is the key.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 293,
+      "speaker": "Unknown",
+      "text": "@23:21 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 294,
+      "speaker": "Unknown",
+      "text": "Most of these, most of these programs are like that. When you talk about the stuff that I was working on FlowWise, you need to know how FlowWise work in order to create the automation to help anybody's business.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 295,
+      "speaker": "Unknown",
+      "text": "But that's already there. But the good thing about FlowWise is, is open source. They allow you to own it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 296,
+      "speaker": "Unknown",
+      "text": "These people, I think it's a service that they're providing. I'm not sure what the level of ownership is, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 297,
+      "speaker": "Unknown",
+      "text": "It could be there, or it could be very penny. It could be pennies on a dollar, because they could be like, hey, you know what?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 298,
+      "speaker": "Unknown",
+      "text": "We want to get this thing out as much as people in a short period of time. Right, right. But we could take advantage of it because we could say, okay, you're charging us.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 299,
+      "speaker": "Unknown",
+      "text": "It's almost like electricity. You're charging us electricity. What we're going Put equipment inside the studio in order to make money.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 300,
+      "speaker": "Unknown",
+      "text": "Everybody wins. So we've got to think in that way, how can we box this up, put our name on it, and then sell it?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 301,
+      "speaker": "Unknown",
+      "text": "Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 302,
+      "speaker": "Unknown",
+      "text": "@24:14 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 303,
+      "speaker": "Unknown",
+      "text": "Right. I'm going to request a demo with Conversica. There we go. No, Connex.ai. I thought it was Conversica. It brought me to another...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 304,
+      "speaker": "Unknown",
+      "text": "@24:31 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 305,
+      "speaker": "Unknown",
+      "text": "Look at that. Maybe somebody else is doing the same thing. Yeah, Connex.ai.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 306,
+      "speaker": "Unknown",
+      "text": "@24:39 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 307,
+      "speaker": "Unknown",
+      "text": "Is this even it? I don't know. I typed in Conversica, and it sponsored Connex.ai came up. Now, where's Connex.ai?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 308,
+      "speaker": "Unknown",
+      "text": "Is that even on this list?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 309,
+      "speaker": "Unknown",
+      "text": "@24:54 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 310,
+      "speaker": "Unknown",
+      "text": "I don't see it here.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 311,
+      "speaker": "Unknown",
+      "text": "@24:57 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 312,
+      "speaker": "Unknown",
+      "text": "Yeah. This list must not be... That completely exhaustive, of course, right? Probably not.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 313,
+      "speaker": "Unknown",
+      "text": "@25:04 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 314,
+      "speaker": "Unknown",
+      "text": "But this is what I recently got to show. These are the major ones as of current. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 315,
+      "speaker": "Unknown",
+      "text": "@25:10 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 316,
+      "speaker": "Unknown",
+      "text": "Oh, here it is. Here's Conversica. Okay. So you're right, bro. You type like Google search. I guess you type one in and then another one is like at the top.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 317,
+      "speaker": "Unknown",
+      "text": "Right. Start a conversation with your customers. AI agents help you start effortless conversations and build trust, deeper relationships, and drive growth.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 318,
+      "speaker": "Unknown",
+      "text": "Wow. Look at the, look at the clients they have here. They have some pretty big clients here.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 319,
+      "speaker": "Unknown",
+      "text": "@25:38 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 320,
+      "speaker": "Unknown",
+      "text": "Wow.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 321,
+      "speaker": "Unknown",
+      "text": "@25:40 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 322,
+      "speaker": "Unknown",
+      "text": "Right. Some sports teams, T-Mobile.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 323,
+      "speaker": "Unknown",
+      "text": "@25:46 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 324,
+      "speaker": "Unknown",
+      "text": "Wow. Well, again, what they're building, if they're, if they're not willing to have somebody build on top of it, it's nothing that we can't build out.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 325,
+      "speaker": "Unknown",
+      "text": "Because the, the, the, the, the technology is. There. We live in a world now, the technology is free. It's like going to Home Depot and buying a hammer.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 326,
+      "speaker": "Unknown",
+      "text": "You could go to Home Depot and buy a hammer and start building a house. Does that make sense?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 327,
+      "speaker": "Unknown",
+      "text": "@26:15 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 328,
+      "speaker": "Unknown",
+      "text": "Yeah. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 329,
+      "speaker": "Unknown",
+      "text": "@26:16 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 330,
+      "speaker": "Unknown",
+      "text": "I could go and get a computer built and set up a server. I'm in the game.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 331,
+      "speaker": "Unknown",
+      "text": "@26:24 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 332,
+      "speaker": "Unknown",
+      "text": "Right. Right. And then just so I'm clear also, the open source ones at the top left, those are the ones that are truly free.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 333,
+      "speaker": "Unknown",
+      "text": "@26:33 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 334,
+      "speaker": "Unknown",
+      "text": "Those ones are free, but you have to understand you're taking responsibility and you're playing by the rules of the Wild West, meaning that you have to set up backends.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 335,
+      "speaker": "Unknown",
+      "text": "You have to make sure keys are secured. You have to make sure everything is where it needs to be.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 336,
+      "speaker": "Unknown",
+      "text": "You have to make sure these guardrails are in place, which goes in everything else. But that's where the money comes in, because you're going to be the only one that theDR2.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 337,
+      "speaker": "Unknown",
+      "text": "Gets that inline. There's no overhead. The only overhead is if you use like an open, if you use like a ChatGBT.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 338,
+      "speaker": "Unknown",
+      "text": "But even recently, I found out that if you use a program, and that's why the FlowWise is so, it makes sense, because once you use the API, the conversation doesn't get stored with ChatGBT.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 339,
+      "speaker": "Unknown",
+      "text": "It stays in where you have it. The API only access the usage of their technology to store the information, which I thought was just like a amazing.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 340,
+      "speaker": "Unknown",
+      "text": "So that's why this FlowWise thing makes sense. Because when you're interacting with your customer, you have your client list, you're using the AI technology, but you're dialing into usage, but they're not storing the information, as what they say, you only use it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 341,
+      "speaker": "Unknown",
+      "text": "@27:45 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 342,
+      "speaker": "Unknown",
+      "text": "Which like, it really is almost like a true sales, like a real salesperson that just comes in. It's not like they're storing stuff in their brains.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 343,
+      "speaker": "Unknown",
+      "text": "They're just accessing the data, making the calls, selling, doing, you know, the activity. That's all. That's all we want as well.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 344,
+      "speaker": "Unknown",
+      "text": "Right. Wow. So next steps, we need to look at what they're offering. Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 345,
+      "speaker": "Unknown",
+      "text": "@28:14 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 346,
+      "speaker": "Unknown",
+      "text": "They probably have a sales team if they sell into these big companies.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 347,
+      "speaker": "Unknown",
+      "text": "@28:19 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 348,
+      "speaker": "Unknown",
+      "text": "They have to.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 349,
+      "speaker": "Unknown",
+      "text": "@28:20 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 350,
+      "speaker": "Unknown",
+      "text": "Yeah. And they're probably going to be telling you they could integrate with Club Ready. They probably are doing what we're looking to do.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 351,
+      "speaker": "Unknown",
+      "text": "So it's so funny. Right. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 352,
+      "speaker": "Unknown",
+      "text": "@28:31 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 353,
+      "speaker": "Unknown",
+      "text": "Well, I know a lot of these big companies, even Verizon. I was talking to an ex-co-worker of mine, and she was saying that, and this was probably last year, she was saying that her bosses were saying, you need to use AI.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 354,
+      "speaker": "Unknown",
+      "text": "Use something with AI. It's almost like reading Kim. You're not using AI.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 355,
+      "speaker": "Unknown",
+      "text": "@28:55 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 356,
+      "speaker": "Unknown",
+      "text": "You're going to be replaced. Yeah. They're like, no, you need to use it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 357,
+      "speaker": "Unknown",
+      "text": "@28:58 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 358,
+      "speaker": "Unknown",
+      "text": "I'm like, what do you mean? you're, you're, you're boss. They're actually telling you to use AI. What? It's just like, don't use your brain.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 359,
+      "speaker": "Unknown",
+      "text": "Don't use your intelligence. Use someone else's. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 360,
+      "speaker": "Unknown",
+      "text": "@29:17 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 361,
+      "speaker": "Unknown",
+      "text": "So this is where we're going now in Spinet, where we're training this thing to take over our position. This is only the few things that it's not going be able to do, like real craft and trays, like plumbing, electrical.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 362,
+      "speaker": "Unknown",
+      "text": "Yes, it knows the know-how, but it doesn't have a technical, physical thing to do the work. Yeah, yeah. It's the only thing that it's probably going to be tapped out of.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 363,
+      "speaker": "Unknown",
+      "text": "@29:38 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 364,
+      "speaker": "Unknown",
+      "text": "You know, I think I'm going to try to do it myself, right? I really, like, hopefully I'm closing next week and I won't, bro, because hopefully, because like, bro, there's so, like, it's just, there's so much to do with the, with the, with the close.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 365,
+      "speaker": "Unknown",
+      "text": "And I'm doing all of it, obviously, right? I had to go down to the studio yesterday and start. to start.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 366,
+      "speaker": "Unknown",
+      "text": "We conversations with the staff and stuff. It's ridiculous. Bro, when this closes, I'm going to build myself a monster rig, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 367,
+      "speaker": "Unknown",
+      "text": "A monster with tons of memory. Really? Yeah. Bro, forget about it. It's basically going to be a massive server.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 368,
+      "speaker": "Unknown",
+      "text": "@30:22 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 369,
+      "speaker": "Unknown",
+      "text": "Is it that easy to build? Or how did you like...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 370,
+      "speaker": "Unknown",
+      "text": "@30:26 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 371,
+      "speaker": "Unknown",
+      "text": "Bro, computers are easy to build, bro. Really? Yeah, could do it. You could totally do it. Wait, haven't you built a computer before?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 372,
+      "speaker": "Unknown",
+      "text": "No, you built it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 373,
+      "speaker": "Unknown",
+      "text": "@30:35 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 374,
+      "speaker": "Unknown",
+      "text": "You built a computer that I had at one time.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 375,
+      "speaker": "Unknown",
+      "text": "@30:41 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 376,
+      "speaker": "Unknown",
+      "text": "Bro, we could make it fun and do it ourselves. We could literally buy the same stuff, have it shipped to our house, and then we both build it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 377,
+      "speaker": "Unknown",
+      "text": "And then we both have a monster rig. Let's do do it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 378,
+      "speaker": "Unknown",
+      "text": "@30:54 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 379,
+      "speaker": "Unknown",
+      "text": "So do I do this Best Buy thing, or...?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 380,
+      "speaker": "Unknown",
+      "text": "@30:59 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 381,
+      "speaker": "Unknown",
+      "text": "You know, I mean... mean... ... I mean, if you could get the products, right, are they going to buy the stuff for you?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 382,
+      "speaker": "Unknown",
+      "text": "they going to recommend what products?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 383,
+      "speaker": "Unknown",
+      "text": "@31:08 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 384,
+      "speaker": "Unknown",
+      "text": "We're going to ship it in the store, and they're going to kind of do like a, what do you want, and kind of curate it with me.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 385,
+      "speaker": "Unknown",
+      "text": "@31:16 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 386,
+      "speaker": "Unknown",
+      "text": "My worry is that even though Best Buy is Best Buy, they might not have the selection that we could get if we went on like Newegg or one of the other, even Amazon.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 387,
+      "speaker": "Unknown",
+      "text": "@31:27 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 388,
+      "speaker": "Unknown",
+      "text": "So what's the budget for something like this, for like a rig?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 389,
+      "speaker": "Unknown",
+      "text": "@31:32 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 390,
+      "speaker": "Unknown",
+      "text": "Well, I know if a really big video card is needed, that's probably $1,000 right there, just for the video card.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 391,
+      "speaker": "Unknown",
+      "text": "Oh, wow.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 392,
+      "speaker": "Unknown",
+      "text": "@31:42 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 393,
+      "speaker": "Unknown",
+      "text": "Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 394,
+      "speaker": "Unknown",
+      "text": "@31:43 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 395,
+      "speaker": "Unknown",
+      "text": "Now, the processor, I have to assume that the main processor has to be really good too, and so that, again, maybe $500, $600 for the main processor.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 396,
+      "speaker": "Unknown",
+      "text": "Okay. Whatever, your motherboard, you have to spend money on your motherboard. Because that's that's the whole like everything gets everything can be upgraded except the motherboard when you have a motherboard and you want to take it out and get a new one then you forget it you need a whole new computer let's do it man so let's do it let's put it let's put it on um motherboard you need to skimp on i would say spend like six seven hundred dollars on a motherboard okay so already you're probably in the two to three thousand dollar range and then your memory i mean memory is actually not that expensive but we need to buy a lot of it right and we probably want big modules too okay so um i don't know we're probably talking about maybe three or four thousand that's it bro you're building it yourself so you're you're you're you're thinking about how much you're spending on each component right right and exactly you know exactly what you want so you're not overpaying bro it right right right right right right right right right",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 397,
+      "speaker": "Unknown",
+      "text": "Like what we're doing with this whole AI thing, you got to know what you're buying. Right, right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 398,
+      "speaker": "Unknown",
+      "text": "@33:07 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 399,
+      "speaker": "Unknown",
+      "text": "That's my worry with Best Buy.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 400,
+      "speaker": "Unknown",
+      "text": "@33:08 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 401,
+      "speaker": "Unknown",
+      "text": "Like they're just going to walk you and say, hey, yeah, you could get this. And they're going to sell you something that's, I don't know, that you should be spending $500 on.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 402,
+      "speaker": "Unknown",
+      "text": "They're going to sell it to you for like $1,800.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 403,
+      "speaker": "Unknown",
+      "text": "@33:22 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 404,
+      "speaker": "Unknown",
+      "text": "The guy made it out like it's cheaper with buying it through them because I showed him the one that was on, was a refurbished for $849.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 405,
+      "speaker": "Unknown",
+      "text": "He's like, yeah, we got a better one and it's cheaper than that. And I was like, really?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 406,
+      "speaker": "Unknown",
+      "text": "@33:35 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 407,
+      "speaker": "Unknown",
+      "text": "That's sales.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 408,
+      "speaker": "Unknown",
+      "text": "@33:38 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 409,
+      "speaker": "Unknown",
+      "text": "So the other thing is, I guess I'm at a point, I want to do that build with you. I'm going to just bring this in anyway, because I have an old, I have a computer bought from them in February.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 410,
+      "speaker": "Unknown",
+      "text": "So I spent like $1,000. They said that they'll take the $1,000 back and help me build this new one.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 411,
+      "speaker": "Unknown",
+      "text": "@33:55 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 412,
+      "speaker": "Unknown",
+      "text": "Oh, okay, okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 413,
+      "speaker": "Unknown",
+      "text": "@33:56 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 414,
+      "speaker": "Unknown",
+      "text": "So that $1,000, I probably might just spend an extra $500 to get.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 415,
+      "speaker": "Unknown",
+      "text": "@34:03 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 416,
+      "speaker": "Unknown",
+      "text": "So you told them what you're using it for, that you want to use it for AI-type purposes. And that's what the guy said.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 417,
+      "speaker": "Unknown",
+      "text": "@34:11 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 418,
+      "speaker": "Unknown",
+      "text": "Well, that's what AI told me I needed that video stuff. That's why I went and told them and showed them the picture of this is what.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 419,
+      "speaker": "Unknown",
+      "text": "So when I go back to them, I'm still going to show them the bill that AI told me to bill.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 420,
+      "speaker": "Unknown",
+      "text": "Well, AI is kind of showing me. But I definitely want something bigger. So I'm not sure when you're ready, if you want to kind of...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 421,
+      "speaker": "Unknown",
+      "text": "Is it going to be bigger than what you have at home then, if you're building something new?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 422,
+      "speaker": "Unknown",
+      "text": "@34:35 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 423,
+      "speaker": "Unknown",
+      "text": "Probably. I mean, it depends on the motherboard. I mean, I'd have to see what motherboard... I have to get into it a little bit in terms of like, all right, if this thing is going to be on all the time, if it's going to need this much memory, which...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 424,
+      "speaker": "Unknown",
+      "text": "How much memory did you say you're going to need? 128 gigs? Well, that's...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 425,
+      "speaker": "Unknown",
+      "text": "@34:56 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 426,
+      "speaker": "Unknown",
+      "text": "I wanted to tell him how much slots can I... I could realistically put. If I just start off at 64, but I want room to grow in it if I need to, and then see how far that is.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 427,
+      "speaker": "Unknown",
+      "text": "But if it's like I want to build a bigger one eventually down the road, then it's almost like I could just stick with the 64, have like four slots or whatever it is, and just have like 128 if I Yeah, the motherboard is going to determine how big you want your case to be.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 428,
+      "speaker": "Unknown",
+      "text": "@35:25 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 429,
+      "speaker": "Unknown",
+      "text": "And I would always say, like again, if this is going to be running serious like computing power, you want a big case for airflow and so that it doesn't overheat or anything like that, because that over time that will wear on it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 430,
+      "speaker": "Unknown",
+      "text": "Really? Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 431,
+      "speaker": "Unknown",
+      "text": "@35:43 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 432,
+      "speaker": "Unknown",
+      "text": "I don't think this one had a good airflow. think this is just a regular out-of-the-box Dell with like, you know, think yesterday, I took the old, since I'm returning it, took the RAM and put the one that came with it back in.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 433,
+      "speaker": "Unknown",
+      "text": "So I'm going to bring this to them and say that I want this to go into the new one.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 434,
+      "speaker": "Unknown",
+      "text": "@36:01 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 435,
+      "speaker": "Unknown",
+      "text": "I think you want a nice big server-type case, like a full server. It's going to be big and plenty of fans and liquid cooling and all that, which that's another thing that I did.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 436,
+      "speaker": "Unknown",
+      "text": "When I built my recent computer, it was a liquid-cooled CPU and liquid-cooled airflow. The airflow is like a radiator of a car.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 437,
+      "speaker": "Unknown",
+      "text": "If we're going to be spending this much, it's got to be working for a long time. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 438,
+      "speaker": "Unknown",
+      "text": "@36:43 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 439,
+      "speaker": "Unknown",
+      "text": "The way I always think about all these is if it gets working and get to the point where we get paid out one job and they take care of all the hardware just on one job, then you know what I'm saying?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 440,
+      "speaker": "Unknown",
+      "text": "@36:54 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 441,
+      "speaker": "Unknown",
+      "text": "Right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 442,
+      "speaker": "Unknown",
+      "text": "@36:55 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 443,
+      "speaker": "Unknown",
+      "text": "The thing that's quantified after that is just how much time we put in to build, you know what I'm trying to say, to make this",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 444,
+      "speaker": "Unknown",
+      "text": "Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 445,
+      "speaker": "Unknown",
+      "text": "@37:04 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 446,
+      "speaker": "Unknown",
+      "text": "Now, are we actually saying that whatever we build and whatever we run on the computer, the computer's going to be on all the time, running this?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 447,
+      "speaker": "Unknown",
+      "text": "Do we have a sense for, like, let's say we sell to a client, and the client is using it?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 448,
+      "speaker": "Unknown",
+      "text": "How much resources? How the computer is it going to take when it's in use? Like, so if you have, let's say you have 128 gigs of RAM.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 449,
+      "speaker": "Unknown",
+      "text": "Right. If it's being used by a client, how much RAM is it going to be taking? Is it going to be taking half of that, a quarter of that?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 450,
+      "speaker": "Unknown",
+      "text": "Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 451,
+      "speaker": "Unknown",
+      "text": "@37:54 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 452,
+      "speaker": "Unknown",
+      "text": "Then you see what I mean?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 453,
+      "speaker": "Unknown",
+      "text": "@37:56 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 454,
+      "speaker": "Unknown",
+      "text": "Then, you know, you really got to scale it. And then that... Yeah. In my mind, that makes me question, like, do we need to have it hosted somewhere else?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 455,
+      "speaker": "Unknown",
+      "text": "Hmm. So you were saying that, what were you going to run on it that said they needed, like, 40 gigs?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 456,
+      "speaker": "Unknown",
+      "text": "The Chromium. Chromium.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 457,
+      "speaker": "Unknown",
+      "text": "@38:23 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 458,
+      "speaker": "Unknown",
+      "text": "Chromium took 40 gigs, but what's so funny is I think I downloaded it too many times, and then when I asked ChatGBT, it said it was taking up 300 gigs because I kept on re-downloading it, and I don't think it ever got erased because of how much errors I went through with it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 459,
+      "speaker": "Unknown",
+      "text": "Well, I'm talking about, like, when the application is running.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 460,
+      "speaker": "Unknown",
+      "text": "@38:44 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 461,
+      "speaker": "Unknown",
+      "text": "Oh. How much RAM is it using? I don't know.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 462,
+      "speaker": "Unknown",
+      "text": "@38:48 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 463,
+      "speaker": "Unknown",
+      "text": "I guess I got to ask that. one time.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 464,
+      "speaker": "Unknown",
+      "text": "@38:51 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 465,
+      "speaker": "Unknown",
+      "text": "Right. I thought you had said it around 40, like, the download was 40 gigs, but even when you're using it, it's going to need that much RAM.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 466,
+      "speaker": "Unknown",
+      "text": "@39:01 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 467,
+      "speaker": "Unknown",
+      "text": "Let me ask you. So the question is, we're asking, I could ask you how much RAM is needed?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 468,
+      "speaker": "Unknown",
+      "text": "@39:07 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 469,
+      "speaker": "Unknown",
+      "text": "I don't know. What do you call it? To run a session? I don't it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 470,
+      "speaker": "Unknown",
+      "text": "@39:17 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 471,
+      "speaker": "Unknown",
+      "text": "To run an AI session? I don't know how you call it. Use it. What model?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 472,
+      "speaker": "Unknown",
+      "text": "@39:48 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 473,
+      "speaker": "Unknown",
+      "text": "Model?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 474,
+      "speaker": "Unknown",
+      "text": "@39:49 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 475,
+      "speaker": "Unknown",
+      "text": "Yeah, using a 70 gig. Let's use a 70 gig ChatGBT model. So... Wow. Let's see. Running the AI flow using 70-gigabyte chat GBT-style model with a sales bot used by a client depends heavily on how you plan to deploy the model and what kind of usage load, user's frequency and concurrency you expect.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 476,
+      "speaker": "Unknown",
+      "text": "So it says, you host a model yourself on a server or workstation. The RAM requirement, model precision. So they're saying a full precision 16 is 140-gigabyte of RAM.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 477,
+      "speaker": "Unknown",
+      "text": "@40:37 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 478,
+      "speaker": "Unknown",
+      "text": "What? Yeah, needed for 70 billion.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 479,
+      "speaker": "Unknown",
+      "text": "@40:41 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 480,
+      "speaker": "Unknown",
+      "text": "But that's a big model though. They say they're 160-gigabyte.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 481,
+      "speaker": "Unknown",
+      "text": "@40:47 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 482,
+      "speaker": "Unknown",
+      "text": "Holy crap. 140 gigabytes of RAM? Yeah. Not common, it says. What? Not common.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 483,
+      "speaker": "Unknown",
+      "text": "@40:56 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 484,
+      "speaker": "Unknown",
+      "text": "But then they have another thing that says int8quan. Quantized, it's 80 to 100 gigabyte of RAM. So it goes less.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 485,
+      "speaker": "Unknown",
+      "text": "Minimum for 4-bit quantized models. So it's a smaller model, it's 64 gigabyte of RAM. But I think I'm asking the wrong question.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 486,
+      "speaker": "Unknown",
+      "text": "Yeah. You could run it on a virtual server like a cloud. It would use less, but then you're paying for cloud storage.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 487,
+      "speaker": "Unknown",
+      "text": "Which, again, we're going away from that. So, I don't know. Sometimes it's based on a question that says, you know, asking, but that's what I'm using on a model.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 488,
+      "speaker": "Unknown",
+      "text": "That doesn't mean that that model is what specifically we need to run that. It could be a smaller model.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 489,
+      "speaker": "Unknown",
+      "text": "Who knows? Yeah, I'm going to say like 70 gig is like, for a voice automated AI bot to talk to a client, I don't think you need this much.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 490,
+      "speaker": "Unknown",
+      "text": "It just needed enough intelligence. Okay. I'm going to do a deep research like a 70, so it might be less.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 491,
+      "speaker": "Unknown",
+      "text": "@42:08 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 492,
+      "speaker": "Unknown",
+      "text": "Okay. That's a big model.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 493,
+      "speaker": "Unknown",
+      "text": "@42:10 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 494,
+      "speaker": "Unknown",
+      "text": "I just used an example for a big model, so it's twice that. Because you get a model that's like 7 billion parameters or whatever they call it, and then it's probably running on less RAM to do it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 495,
+      "speaker": "Unknown",
+      "text": "Got it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 496,
+      "speaker": "Unknown",
+      "text": "@42:23 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 497,
+      "speaker": "Unknown",
+      "text": "Got it. So that's important for us to factor into our calculations. Okay. Yeah. Of how much RAM is needed, you know, so that we're, I mean, again, right now we're just starting up.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 498,
+      "speaker": "Unknown",
+      "text": "So I assume like we could expand if we need to, right? Right. You know, obviously. Yeah. You know, if we get certain contracts and, you we're able to, you know, have clients using it, we might need, we'll have to expand.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 499,
+      "speaker": "Unknown",
+      "text": "Yeah. 100%.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 500,
+      "speaker": "Unknown",
+      "text": "@42:55 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 501,
+      "speaker": "Unknown",
+      "text": "Yeah. think, I think the biggest thing is to getting some type of prototype and having a test. Okay. Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 502,
+      "speaker": "Unknown",
+      "text": "@43:08 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 503,
+      "speaker": "Unknown",
+      "text": "Well, yeah, think it's time for me then to start a massive build, a massive server build, and start, you know, start really getting into this myself.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 504,
+      "speaker": "Unknown",
+      "text": "Yeah. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 505,
+      "speaker": "ACTION ITEM",
+      "text": "Go to 1pm Best Buy appt. Discuss high-performance AI-capable PC build. Get component list/invoice. - WATCH",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 506,
+      "speaker": "Unknown",
+      "text": "@43:23 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 507,
+      "speaker": "Unknown",
+      "text": "That'd definitely be the way to do it. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 508,
+      "speaker": "Unknown",
+      "text": "@43:32 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 509,
+      "speaker": "Unknown",
+      "text": "So when were you thinking about doing the Best Buy thing? I have appointment today at 1. Oh, okay. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 510,
+      "speaker": "Unknown",
+      "text": "@43:40 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 511,
+      "speaker": "Unknown",
+      "text": "But when, so how soon are you talking about the build?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 512,
+      "speaker": "Unknown",
+      "text": "@43:43 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 513,
+      "speaker": "Unknown",
+      "text": "Probably next week, bro. Next week. Next week? Okay. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 514,
+      "speaker": "Unknown",
+      "text": "@43:47 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 515,
+      "speaker": "Unknown",
+      "text": "You sent me the order list, and to put it together is nothing crazy?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 516,
+      "speaker": "Unknown",
+      "text": "@43:52 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 517,
+      "speaker": "Unknown",
+      "text": "Putting it together shouldn't be anything crazy, bro. Okay. It really shouldn't be. I mean, everything starts with the motherboard.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 518,
+      "speaker": "Unknown",
+      "text": "Right. We're going to be attaching everything. Right. So to the motherboard, you install the motherboard in the case, you might need to do a little research on, I mean, if Best Buy is going to do it, it might be more economical.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 519,
+      "speaker": "Unknown",
+      "text": "So obviously, when you go to Best Buy later, they're going to say, hey, you need this, you need this, you need this.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 520,
+      "speaker": "Unknown",
+      "text": "You're going to want to make sure that, well, first of all, get the prices, right? Get the models, get the prices and everything.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 521,
+      "speaker": "Unknown",
+      "text": "I want to say like you want to compare it to even something as simple as Amazon, you know what I mean?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 522,
+      "speaker": "Unknown",
+      "text": "Because for example, you've got the cooling system, right? They're going to recommend to you some kind of cooling system, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 523,
+      "speaker": "Unknown",
+      "text": "I don't know, like somebody at Best Buy, how well versed that person is at the fact that you're going to be doing AI on this.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 524,
+      "speaker": "Unknown",
+      "text": "It's be I So Right? My thinking is you need to keep your system cool. It's very, very simple. So call ends in 15 minutes.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 525,
+      "speaker": "Unknown",
+      "text": "Yeah. So that's important because you don't want your overheating. The size of the case, like you don't want everything crammed into the case.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 526,
+      "speaker": "Unknown",
+      "text": "Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 527,
+      "speaker": "Unknown",
+      "text": "@45:26 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 528,
+      "speaker": "Unknown",
+      "text": "They got pretty big cases when I go in there. got like gaming cases. Yep.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 529,
+      "speaker": "Unknown",
+      "text": "@45:31 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 530,
+      "speaker": "Unknown",
+      "text": "Big like mine. My case, forget it, bro. Like you could fit like a dog in there with the computer.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 531,
+      "speaker": "Unknown",
+      "text": "Like there's so much space in there. Yeah. So all of that, just keep in mind when you're there with the guy.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 532,
+      "speaker": "Unknown",
+      "text": "Yeah. That, you know, the system is going to be running pretty, you know, hefty programming applications that are going to like, this is beyond gaming.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 533,
+      "speaker": "Unknown",
+      "text": "Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 534,
+      "speaker": "Unknown",
+      "text": "@46:00 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 535,
+      "speaker": "Unknown",
+      "text": "It sounds. isn't",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 536,
+      "speaker": "Unknown",
+      "text": "@46:01 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 537,
+      "speaker": "Unknown",
+      "text": "Like, so, you know, my computer, my laptop, I'm not on it right now, but my other laptop that I told you, like, is massive.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 538,
+      "speaker": "Unknown",
+      "text": "It's a gaming laptop. It remarkably keeps itself cool. I can't believe it. Wow. Like, and that's what you get when you spend, you know, 4Gs on a laptop, I guess.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 539,
+      "speaker": "Unknown",
+      "text": "@46:26 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 540,
+      "speaker": "Unknown",
+      "text": "But you're saying that kind of money on a build will get you more, though? Way more.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 541,
+      "speaker": "Unknown",
+      "text": "@46:31 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 542,
+      "speaker": "Unknown",
+      "text": "Yes. Wow. Okay. I can see that. Way more. Yeah. Like, even when I built computers, like, I built your computer years ago, I built computers for some other friends.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 543,
+      "speaker": "Unknown",
+      "text": "Like, I always tell them, like, I'm only buying what's needed. And I'm not, you know, and obviously I compare prices.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 544,
+      "speaker": "Unknown",
+      "text": "Like, if I go to one place, I see how much it is in one place. I go to another place.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 545,
+      "speaker": "Unknown",
+      "text": "Simple. So, when you say there's...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 546,
+      "speaker": "Unknown",
+      "text": "@47:01 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 547,
+      "speaker": "Unknown",
+      "text": "That's not needed. What would typically not be not needed when you're doing a build, like from something off the shelf?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 548,
+      "speaker": "Unknown",
+      "text": "@47:07 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 549,
+      "speaker": "Unknown",
+      "text": "Well, I mean, in terms of like, you know, this is a weird situation because you want the best of everything.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 550,
+      "speaker": "Unknown",
+      "text": "So it's almost like everything is needed in a sense. Like I was thinking when I was building computers for like people, you, me, whatever, we were just doing basic stuff on it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 551,
+      "speaker": "Unknown",
+      "text": "There's a lot that's not needed, right? Like you could, instead of like 100 gigs of RAM, we only do 10.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 552,
+      "speaker": "Unknown",
+      "text": "Or instead of like a core, Intel Core i9, you know, i7, like we only do an i3 or an i5.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 553,
+      "speaker": "Unknown",
+      "text": "That's what I mean. This is different because you're super high performance. Yeah, no, of course.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 554,
+      "speaker": "Unknown",
+      "text": "@48:00 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 555,
+      "speaker": "Unknown",
+      "text": "Yeah, no, this is exciting.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 556,
+      "speaker": "Unknown",
+      "text": "@48:02 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 557,
+      "speaker": "Unknown",
+      "text": "So that guy at Best Buy is going to really be happy to see you, because you're going to be here.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 558,
+      "speaker": "Unknown",
+      "text": "The way he made it out, was just like, no, no, you get it, man. It's sales, man. It's all sales.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 559,
+      "speaker": "Unknown",
+      "text": "You're going to go in there, and you're going to tell him I need the highest performance, almost if you guys can offer it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 560,
+      "speaker": "Unknown",
+      "text": "He's going to be like, sure.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 561,
+      "speaker": "Unknown",
+      "text": "@48:21 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 562,
+      "speaker": "Unknown",
+      "text": "Well, I don't think necessarily I'm going to go to highest. Like I said, that refurbished one that I was looking at, it was like 849.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 563,
+      "speaker": "Unknown",
+      "text": "And I even asked him about like, hey, shouldn't the 500 series be better? He's like, not necessarily. He said they added a new feature, but this thing actually is better and for the price.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 564,
+      "speaker": "Unknown",
+      "text": "So I felt like that was like a big challenge to like, I don't really have to overspend. And then I think I showed him it was 849.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 565,
+      "speaker": "Unknown",
+      "text": "He's like, yeah, we got it cheaper than that. I was like, oh, okay. I guess he has something, I'm not sure if it's the same or similar, but I feel like he understands what I'm looking to get, that one guy, I don't know what I'm going to get.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 566,
+      "speaker": "Unknown",
+      "text": "And See what they say, you know. But then, like I said again, the computer that I have, if I'm going to try to spend another $800 in it, I'm already in $4,000, and I'm not moving the memory, just bring it back in and just have a build with ...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 567,
+      "speaker": "Unknown",
+      "text": "I don't have to spend everything right away. Maybe there's something I don't have to buy that I could buy later and put in myself if they build up the bones of it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 568,
+      "speaker": "Unknown",
+      "text": "Does that make sense? No, yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 569,
+      "speaker": "Unknown",
+      "text": "@49:29 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 570,
+      "speaker": "Unknown",
+      "text": "But the key is that they're going to take back and be able to give you credit and use it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 571,
+      "speaker": "Unknown",
+      "text": "That makes sense. Yeah, that's what I was thinking of.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 572,
+      "speaker": "Unknown",
+      "text": "@49:39 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 573,
+      "speaker": "Unknown",
+      "text": "Like, I can't lose because I'm building this thing with no room to build in it, you know. And now I could potentially get something that, you know, might get me a little bit further.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 574,
+      "speaker": "Unknown",
+      "text": "Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 575,
+      "speaker": "Unknown",
+      "text": "@49:49 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 576,
+      "speaker": "Unknown",
+      "text": "And he said it's cheap. I don't know.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 577,
+      "speaker": "Unknown",
+      "text": "@49:50 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 578,
+      "speaker": "Unknown",
+      "text": "He said out of the box because he said, you can't, what you're trying to do, you can't buy something out of the box here and get.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 579,
+      "speaker": "Unknown",
+      "text": "You have to build it. Right. Those are hard.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 580,
+      "speaker": "Unknown",
+      "text": "@49:59 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 581,
+      "speaker": "Unknown",
+      "text": "He's right about that because it's beyond ... Right. Yeah. performance that they probably offer with any computers. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 582,
+      "speaker": "Unknown",
+      "text": "@50:05 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 583,
+      "speaker": "Unknown",
+      "text": "But the other thing I want to, before we end, is going down this road of downloading the open-source Chromium.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 584,
+      "speaker": "Unknown",
+      "text": "Dude, I've never seen so much code before. And the computer is doing it all by itself. So I don't even know what the hell the computer is doing.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 585,
+      "speaker": "Unknown",
+      "text": "It's like doing it for hours. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 586,
+      "speaker": "Unknown",
+      "text": "@50:22 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 587,
+      "speaker": "Unknown",
+      "text": "But then I'm also learning.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 588,
+      "speaker": "Unknown",
+      "text": "@50:24 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 589,
+      "speaker": "Unknown",
+      "text": "I'm also learning along the way, because I feel like some of the commands and prompts, but like you said, you know JavaScript and everything like that.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 590,
+      "speaker": "Unknown",
+      "text": "But then there's so much lines of code. I don't think it's humanly possible for somebody to do these things that it's doing in that time if you wrote the code yourself.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 591,
+      "speaker": "Unknown",
+      "text": "That's crazy, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 592,
+      "speaker": "Unknown",
+      "text": "@50:42 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 593,
+      "speaker": "Unknown",
+      "text": "That's just crazy to think that way. Oh, my God. Dude, it's building.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 594,
+      "speaker": "Unknown",
+      "text": "@50:46 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 595,
+      "speaker": "Unknown",
+      "text": "It builds out the entire web browser on the thing. So I'm curious now, when I go to Best Buy, am I telling them to put Chrome on it?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 596,
+      "speaker": "Unknown",
+      "text": "Or I'd say leave Chrome off? Because are they the one that installed Chrome or Chrome is with Windows? .",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 597,
+      "speaker": "Unknown",
+      "text": "Chrome is with Windows.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 598,
+      "speaker": "Unknown",
+      "text": "@51:03 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 599,
+      "speaker": "Unknown",
+      "text": "You could put it on or not.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 600,
+      "speaker": "Unknown",
+      "text": "@51:05 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 601,
+      "speaker": "Unknown",
+      "text": "Because that's a big file. So if I tell them don't put it on, I'm going to put it on myself.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 602,
+      "speaker": "Unknown",
+      "text": "Should I tell them that?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 603,
+      "speaker": "Unknown",
+      "text": "@51:13 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 604,
+      "speaker": "Unknown",
+      "text": "Yeah. You're talking about the Chrome browser, just a regular Chrome browser? No, Chromium. Chromium. You want them to put it on?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 605,
+      "speaker": "Unknown",
+      "text": "@51:22 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 606,
+      "speaker": "Unknown",
+      "text": "Well, I could put it on myself because I put the Chromium on, but I'm like, I don't need both of them on, right?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 607,
+      "speaker": "Unknown",
+      "text": "Because Chrome is the Chromium browser built on Chromium. Chrome is built on Chromium. I wanted the open source model.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 608,
+      "speaker": "Unknown",
+      "text": "@51:37 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 609,
+      "speaker": "Unknown",
+      "text": "So you're going to ask, why would you ask them to do it? No, I'm going to do it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 610,
+      "speaker": "Unknown",
+      "text": "@51:42 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 611,
+      "speaker": "Unknown",
+      "text": "But I'm just saying, should I tell them not to put Chrome on? Oh, no, they shouldn't put it on.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 612,
+      "speaker": "Unknown",
+      "text": "@51:48 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 613,
+      "speaker": "Unknown",
+      "text": "They shouldn't put it on. Okay. No, they shouldn't. Just regular Windows 11. Yeah, just you tell the guy all you want is regular Windows 11, nothing else.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 614,
+      "speaker": "Unknown",
+      "text": "Nothing else. No other programs, no other. It's just clean Windows. And Chrome does not come with that. Chrome, you know, is a separate program.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 615,
+      "speaker": "Unknown",
+      "text": "It's not even Microsoft. He should not be installing it. Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 616,
+      "speaker": "Unknown",
+      "text": "@52:17 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 617,
+      "speaker": "Unknown",
+      "text": "But don't they usually put a browser build on it, usually?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 618,
+      "speaker": "Unknown",
+      "text": "@52:20 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 619,
+      "speaker": "Unknown",
+      "text": "A Microsoft browser comes with it, usually.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 620,
+      "speaker": "Unknown",
+      "text": "@52:23 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 621,
+      "speaker": "Unknown",
+      "text": "And even that, should I tell them not to put that on?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 622,
+      "speaker": "Unknown",
+      "text": "@52:26 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 623,
+      "speaker": "Unknown",
+      "text": "I think it comes with Windows, though. not sure. It might automatically come with, like, Edge, the Edge browser. Yeah, the Edge browser.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 624,
+      "speaker": "Unknown",
+      "text": "It probably comes with it. Yeah, it does. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 625,
+      "speaker": "Unknown",
+      "text": "@52:39 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 626,
+      "speaker": "Unknown",
+      "text": "But then it won't be like a Dell build, so you won't have the Dell stuff. Right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 627,
+      "speaker": "Unknown",
+      "text": "@52:44 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 628,
+      "speaker": "Unknown",
+      "text": "You won't have any of this, like, bloated, you know, programs that you don't need and whatnot. Perfect. I'm excited.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 629,
+      "speaker": "Unknown",
+      "text": "You do need a security program of something like Yeah, like a Norton or something. Norton or something like that, yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 630,
+      "speaker": "Unknown",
+      "text": "Which they put on, probably comes with, like, the package.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 631,
+      "speaker": "Unknown",
+      "text": "@53:01 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 632,
+      "speaker": "Unknown",
+      "text": "Windows.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 633,
+      "speaker": "Unknown",
+      "text": "@53:01 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 634,
+      "speaker": "Unknown",
+      "text": "has its own. I don't know how good it is. I hear that it actually is pretty good, but I use McAfee on mine.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 635,
+      "speaker": "Unknown",
+      "text": "McAfee, yeah, McAfee. I don't know how good it is, but I do know that all of them are pretty good now.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 636,
+      "speaker": "Unknown",
+      "text": "Nice.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 637,
+      "speaker": "Unknown",
+      "text": "@53:18 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 638,
+      "speaker": "Unknown",
+      "text": "Okay. Yeah. All right. So that's exciting. right. So for next time, we want to confirm on going through that list and see.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 639,
+      "speaker": "Unknown",
+      "text": "I think you set up an appointment already? Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 640,
+      "speaker": "Unknown",
+      "text": "@53:29 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 641,
+      "speaker": "Unknown",
+      "text": "I set up an appointment with them. I put my name in.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 642,
+      "speaker": "Unknown",
+      "text": "@53:32 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 643,
+      "speaker": "Unknown",
+      "text": "They're the worst with that stuff, man. If they're in sales, they're probably in the wrong side of sales. Because I try to set up an appointment for that server build, for that used server, and they never called me back or never reached out.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 644,
+      "speaker": "Unknown",
+      "text": "So it's super busy. But yeah, no, I'm very excited. I definitely would like to, even having this computer, still want to build something, you know?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 645,
+      "speaker": "Unknown",
+      "text": "So whenever you're ready in order, let me know the order list and then, yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 646,
+      "speaker": "ACTION ITEM",
+      "text": "Research bottom 3 AI sales platforms from provided list. Prep findings for next meeting. - WATCH",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 647,
+      "speaker": "ACTION ITEM",
+      "text": "Research top 3 AI sales platforms: Conversica, SalesSoft, HubSpot Breeze. Prep findings for next meeting. - WATCH",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 648,
+      "speaker": "Unknown",
+      "text": "@53:57 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 649,
+      "speaker": "Unknown",
+      "text": "All right. I'm going to do, I think I'm going to, I'm going to reach out to the, I'm going to do the.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 650,
+      "speaker": "Unknown",
+      "text": "Bottom three. Bottom three. I'll do the top three. I'll do the top three. Conversica, SalesSoft, and HubSpot Breeze. All of them look really professional.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 651,
+      "speaker": "Unknown",
+      "text": "Yeah, they're better.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 652,
+      "speaker": "Unknown",
+      "text": "@54:15 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 653,
+      "speaker": "Unknown",
+      "text": "But then, like I said, AI, you have AI software that can scrape that website and get all the information down.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 654,
+      "speaker": "Unknown",
+      "text": "You know what saying? Which is crazy.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 655,
+      "speaker": "Unknown",
+      "text": "@54:26 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 656,
+      "speaker": "Unknown",
+      "text": "It's a crazy world, man.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 657,
+      "speaker": "Unknown",
+      "text": "@54:28 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 658,
+      "speaker": "Unknown",
+      "text": "It is, man.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 659,
+      "speaker": "Unknown",
+      "text": "@54:30 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 660,
+      "speaker": "Unknown",
+      "text": "This is, I mean, it's almost like, like you said, bro, like you don't even know what all that code is.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 661,
+      "speaker": "Unknown",
+      "text": "You don't know what all that code is.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 662,
+      "speaker": "Unknown",
+      "text": "@54:40 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 663,
+      "speaker": "Unknown",
+      "text": "You know, I don't know what that code is, bro. It was, it literally was going at it for hours.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 664,
+      "speaker": "Unknown",
+      "text": "I don't even know how people were able to sit there and write that much code to create.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 665,
+      "speaker": "Unknown",
+      "text": "@54:48 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 666,
+      "speaker": "Unknown",
+      "text": "Wow.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 667,
+      "speaker": "Unknown",
+      "text": "@54:49 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 668,
+      "speaker": "Unknown",
+      "text": "And it's there, you know? Wow. Even this guy that I follow, he's building stuff right in front of my face.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 669,
+      "speaker": "Unknown",
+      "text": "I don't even know what he's building, but he's using AI to write the codes. And AI is literally like, that's how I did the.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 670,
+      "speaker": "Unknown",
+      "text": "That's Download the Chromium. I had to use AI to write the codes to command, and it just did everything, and then I copied what the errors were, and it debugged it.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 671,
+      "speaker": "Unknown",
+      "text": "@55:11 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 672,
+      "speaker": "Unknown",
+      "text": "This is like what you were saying, bro, months ago when you were like ... We almost feel like a grandfather looking at this stuff.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 673,
+      "speaker": "Unknown",
+      "text": "What happened? Where did we fall off the wagon and everything just advanced to this level? It's been the last three years, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 674,
+      "speaker": "Unknown",
+      "text": "@55:33 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 675,
+      "speaker": "Unknown",
+      "text": "It ain't even been that long. This only came online in the last three, four years, but everything else has been there, the Apple, Siri, and all these things.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 676,
+      "speaker": "Unknown",
+      "text": "It's been there for a while, but it only literally came online this powerful the last couple of years.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 677,
+      "speaker": "Unknown",
+      "text": "@55:51 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 678,
+      "speaker": "Unknown",
+      "text": "Crazy, bro. Yeah.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 679,
+      "speaker": "Unknown",
+      "text": "@55:53 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 680,
+      "speaker": "Unknown",
+      "text": "All right. All right. Anything else?",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 681,
+      "speaker": "Unknown",
+      "text": "@55:56 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 682,
+      "speaker": "Unknown",
+      "text": "I guess I'll let you know how it goes with Best Buy or Shoot Your Text.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 683,
+      "speaker": "ACTION ITEM",
+      "text": "Start researching PC components for personal high-performance AI-capable build. Use Martin's Best Buy list as reference. - WATCH",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 684,
+      "speaker": "Unknown",
+      "text": "@56:00 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 685,
+      "speaker": "Unknown",
+      "text": "Okay, bro.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 686,
+      "speaker": "Unknown",
+      "text": "@56:01 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 687,
+      "speaker": "Unknown",
+      "text": "And then they should ...",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 688,
+      "speaker": "Unknown",
+      "text": "@56:01 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 689,
+      "speaker": "Unknown",
+      "text": "I think they said it takes two days to build, so hopefully I'll have it by Saturday or sometime like that.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 690,
+      "speaker": "Unknown",
+      "text": "All right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 691,
+      "speaker": "Unknown",
+      "text": "@56:07 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 692,
+      "speaker": "Unknown",
+      "text": "I'm going to start to do a little research on what components I'm going to buy, too. Okay. When you're there today, get a list.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 693,
+      "speaker": "Unknown",
+      "text": "Obviously, if you say yes, you're probably going to get an invoice or something with a list of everything you've bought.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 694,
+      "speaker": "Unknown",
+      "text": "Send me that, and I'll use that as a starting point for my build, and I'll try to build something similar to that.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 695,
+      "speaker": "ACTION ITEM",
+      "text": "Send Joe meeting transcript and Best Buy component list/invoice post-appointment. - WATCH",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 696,
+      "speaker": "Unknown",
+      "text": "Or if I can, I'll see what the status is of components that are like that. Okay.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 697,
+      "speaker": "Unknown",
+      "text": "@56:41 - Martin D (black28sands@gmail.com)",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 698,
+      "speaker": "Unknown",
+      "text": "And I'll send you a transcript of this thing. This is really cool, so you'd love to see how this looks.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 699,
+      "speaker": "Unknown",
+      "text": "@56:46 - Joe Gonzalez",
+      "start": null,
+      "end": null,
+      "confidence": null
+    },
+    {
+      "id": 700,
+      "speaker": "Unknown",
+      "text": "Yeah. Wow, bro. Yeah. All right, brother. right, All right, later. All right, later. All All right.",
+      "start": null,
+      "end": null,
+      "confidence": null
+    }
+  ]
+}
