@@ -23,8 +23,7 @@ website/dist/
 website/.astro/
 website/node_modules/
 
-# ===== Website public media (copied by pipeline) =====
-website/public/audio/
+# ===== Website public media (video too large for Git) =====
 website/public/video/
 
 # ===== Python =====
