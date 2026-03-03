@@ -43,8 +43,20 @@ const epNum = String(data.episode).padStart(2, '0');
       </audio>
     </div>
 
-    <!-- Video Player (if available) -->
-    {data.videoUrl && (
+    <!-- Video Player (YouTube embed or self-hosted) -->
+    {data.youtubeId && (
+      <div class="video-embed" style="margin-bottom:32px;">
+        <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:var(--radius);">
+          <iframe
+            src={`https://www.youtube.com/embed/${data.youtubeId}`}
+            style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    )}
+    {!data.youtubeId && data.videoUrl && (
       <div style="margin-bottom:32px;">
         <video controls style="width:100%;border-radius:var(--radius);" poster="">
           <source src={data.videoUrl} type="video/mp4" />

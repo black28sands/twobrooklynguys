@@ -9,6 +9,7 @@ const episodes = defineCollection({
     duration: z.string(),
     audioUrl: z.string(),
     videoUrl: z.string().optional(),
+    youtubeId: z.string().optional(),
     description: z.string(),
     chapters: z.array(z.object({
       title: z.string(),
